@@ -1,0 +1,17 @@
+.ToggleMain {
+  width: 40px;
+  height: 36px;
+  float: right;
+  display: flex;
+  flex-flow: column;
+  justify-content: space-around;
+  align-items: center;
+  box-sizing: border-box;
+  cursor: pointer;
+}
+
+.ToggleMain div {
+  width: 90%;
+  height: 2px;
+  background-color: black;
+}

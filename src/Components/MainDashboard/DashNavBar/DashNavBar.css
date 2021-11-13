@@ -1,0 +1,97 @@
+.dashNav {
+  object-fit: contain;
+  padding: 23.6px 0;
+  -webkit-box-shadow: 0 8px 6px -6px rgba(0, 0, 0, 0.15);
+  -moz-box-shadow: 0 8px 6px -6px rgba(0, 0, 0, 0.15);
+  box-shadow: 0 8px 6px -6px rgba(0, 0, 0, 0.15);
+  background-color: #ffffff;
+}
+
+.dashboardNavGetStarted {
+  padding: 5px;
+  border-radius: 5px;
+  background-color: #4c4c4c;
+}
+
+.dashboardNavGetStarted-Btn {
+  font-size: 16px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  text-align: center;
+  letter-spacing: normal;
+  color: #ffffff;
+}
+
+.slider {
+  margin-top: 10px;
+  margin-left: 20px;
+  cursor: pointer;
+}
+
+.line-copy {
+  width: 24px;
+  height: 1px;
+  background-color: #333366;
+  margin-top: 3px;
+}
+
+.dashboardNavnew {
+  object-fit: contain;
+  padding: 5px 8px;
+  border-radius: 5px;
+  background-color: #fa6e31;
+}
+
+.col-addNew {
+  flex: 0 0 2%;
+  max-width: 4%;
+}
+
+.searchNav {
+  border-radius: 20px;
+  border: 1px solid #dedede;
+  display: flex;
+  margin-left: 20px;
+  -webkit-animation: slide-left 0.5s cubic-bezier(0.25, 0.46, 0.45, 0.94) both;
+  animation: slide-left 0.5s cubic-bezier(0.25, 0.46, 0.45, 0.94) both;
+}
+
+.inputDashSearch {
+  margin-left: 12px;
+  font-size: 14px;
+  width: 110px;
+  margin: 8px;
+}
+
+.profileNav {
+  height: auto;
+}
+
+.sideNav {
+  object-fit: contain;
+  box-shadow: 0 5px 0 0 rgba(0, 0, 0, 0.15);
+  background-color: #ffffff;
+}
+
+@-webkit-keyframes slide-left {
+  0% {
+    -webkit-transform: translateX(0);
+    transform: translateX(0);
+  }
+  100% {
+    -webkit-transform: translateX(-100px);
+    transform: translateX(-7px);
+  }
+}
+@keyframes slide-left {
+  0% {
+    -webkit-transform: translateX(0);
+    transform: translateX(0);
+  }
+  100% {
+    -webkit-transform: translateX(-100px);
+    transform: translateX(-7px);
+  }
+}

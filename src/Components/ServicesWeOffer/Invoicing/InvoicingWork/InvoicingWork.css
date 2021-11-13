@@ -1,0 +1,52 @@
+.invoicing-work {
+  margin-top: 60px;
+}
+
+.work-header {
+  font-size: 48px;
+  font-weight: bold;
+  line-height: normal;
+  text-align: left;
+  color: #324168;
+}
+
+.work-para {
+  margin-top: revert;
+  font-size: 24px;
+  text-align: left;
+  color: #1e2127;
+}
+
+.work-footer {
+  font-size: 24px;
+  font-weight: 600;
+  text-align: left;
+  color: #5bb4f2;
+}
+
+.paymentRem {
+  height: auto;
+}
+
+.paymentRem-img {
+  height: auto;
+}
+
+.getStartedLink {
+  cursor: pointer;
+}
+
+@media (max-width: 992px) {
+  .img-place {
+    order: 1;
+  }
+}
+
+@media (max-width: 450px) {
+  .paymentRem {
+    width: inherit;
+  }
+  .paymentRem-img {
+    width: inherit;
+  }
+}

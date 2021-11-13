@@ -1,0 +1,183 @@
+.EditBulkExpenses-Rectangle {
+    width: 1062px !important;
+    height: auto;
+    padding: 30px 0;
+    border-radius: 12px;
+    box-shadow: 0 8px 12px 0 rgba(17, 17, 17, 0.2);
+    background-color: #fff;
+  }
+  
+  .EditBulkExpenses-ClosedMark {
+    margin: 12px 0 6px 338px;
+  }
+  
+  .EditBulkExpenses-Details-Rectangle {
+    width: auto !important;
+    height: 56px !important;
+    margin: 6px 0px 0px;
+    padding-bottom: 2rem !important;
+    border-radius: 12px !important;
+    background-color: #f6f7fb !important;
+  }
+  
+  
+  .EditBulkExpenses-Details-Descriptions {
+    margin: 0 0px 0px 0px;
+    padding-bottom: 1.15rem !important;
+    font-family: Poppins;
+    font-size: 14px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #1a1a1a;
+  }
+  .EditBulkExpenses-Head-Description{
+    margin: 0 0 0 65px;
+  }
+  
+  .EditBulkExpenses-checkbox {
+    margin: 0 4px 0 18px;
+    object-fit: contain;
+  }
+  
+  .EditBulkExpenses-checkboxOne {
+    margin: 0 0 0 16px;
+    object-fit: contain;
+  }
+  
+  .EditBulk-Details-Rectangle {
+    width: 1062px;
+    height: 80px;
+    margin: 0 0 2px 0;
+    padding: 0px 0 0px 0;
+    opacity: 0.8;
+    background-color: #fff;
+    border-bottom: 1px solid #e0e0e6;
+  }
+  
+  .EditBulk-Details-Descriptions {
+    margin: 0 0px 0px 0px;
+    padding-top: 1.75rem !important;
+    font-family: Poppins;
+    font-size: 14px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #1a1a1a;
+  }
+  
+  .EditBulk-Income {
+    width: 166px;
+    height: 28px;
+    margin: 0 435px 30px 30px;
+    font-family: Poppins;
+    font-size: 20px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #1a1a1a;
+  }
+  
+  img.Arrow-Path {
+    width: 12px;
+    height: 13px;
+    margin: 2px 6px 6px 36px;
+    object-fit: contain;
+  }
+  
+  .NewExpesnes-copy {
+    margin: 2px -21px 2px 0px;
+    object-fit: contain;
+  }
+  
+  .NewExpenses-delete {
+    margin: 2px -42px 2px 62px;;
+    object-fit: contain;
+  }
+
+  .NewExpenses-edit {
+    margin: 2px -30px 2px 58px;;
+    object-fit: contain;
+  }
+  
+  .EditBulk-SelectAll-Rectangle {
+    width: 117px !important;
+    height: 30px;
+    margin: 0px 0px 0px 30px;
+    padding: 6px 6px 6px 6px;
+    display: inline;
+    border-radius: 8px;
+    background-color: #f2ecf2;
+  }
+  
+  .Select-All-Checkbox {
+    width: 16px;
+    height: 16px;
+    margin: 0px 4px 1px 5px;
+    object-fit: contain;
+  }
+  
+  .EditBulkExpenses-Text {
+    margin: 2px 6px 0 4px;
+    font-family: Poppins;
+    font-size: 14px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #6d5ed3;
+  }
+  
+  .EditBulkExpenses-Delete-Rectangle {
+    width: 208px;
+    height: 56px;
+    margin: 0px 0px 0 30px;
+    padding: 9px 60px 3px 75px;
+    border-radius: 12px;
+    border: solid 1px #6d5ed3;
+    background-color: #fff;
+  }
+  
+  img.delete {
+    width: 18px;
+    height: 18px;
+    margin: 9px 4px 9px -12px;
+    object-fit: contain;
+  }
+  
+  .EditBulkExpenses-Edit-Rectangle {
+    width: 208px;
+    height: 56px;
+    margin: 0px 0px 0 0px;
+    padding: 12px 60px 3px 75px;
+    border-radius: 12px;
+    background-color: #6d5ed3;
+  }
+  
+  img.edit {
+    width: 18px;
+    height: 18px;
+    margin: 9px 4px 9px 3px;
+    object-fit: contain;
+  }
+  
+  .EditBulkExpenses-Edit {
+    margin: 0 0 0 2px;
+    font-family: Poppins;
+    font-size: 14px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: center;
+    color: #fff;
+  }
+  

@@ -1,0 +1,112 @@
+.edit_modal_tsk {
+    width: 500px;
+    height: 726px;
+    padding: 30px;
+    border-radius: 12px;
+    box-shadow: 0 8px 12px 0 rgba(17, 17, 17, 0.2);
+    background-color: #fff;
+
+}
+
+.font_d_clnt_edt_tsk {
+    font-family: Poppins;
+    font-size: 20px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #1a1a1a;
+}
+
+.input_label_tsk {
+    font-family: Poppins;
+    font-size: 12px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #7d7e82;
+}
+
+.input_label_tsk_frm {
+    /* border: solid 1px #b2b6c5 !important; */
+    border-top-style: none !important;
+    border-right-style: none !important;
+    border-bottom-style: solid 1px #b2b6c5 !important;
+    border-radius: 0 !important;
+    border-left-style: none !important;
+    transition: none !important;
+}
+
+.due_date_tsk_dlog_lbl {
+    font-family: Poppins;
+    font-size: 14px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #1a1a1a;
+}
+
+.due_date_tsk_dlog_input {
+    height: 56px !important;
+
+    border-radius: 9px !important;
+    border: solid 1px #7d849e !important;
+    background-color: #fff !important;
+    font-family: Poppins;
+    font-size: 14px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #1a1a1a;
+}
+
+.repeat_tsk_tsk {
+    font-family: Poppins;
+    font-size: 14px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #1a1a1a;
+}
+
+.btn-cancel {
+    border: 1px solid #6d5ed3;
+    border-radius: 12px;
+    background-color: #fff;
+    padding: 20px;
+    font-family: Poppins;
+    font-size: 14px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: center;
+    color: #6d5ed3;
+
+}
+
+.btn-save {
+    padding: 18px 86px 18px 87px;
+    border-radius: 12px;
+    padding: 20px;
+    background-color: #6d5ed3;
+    color: white;
+    font-family: Poppins;
+    font-size: 14px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: center;
+}

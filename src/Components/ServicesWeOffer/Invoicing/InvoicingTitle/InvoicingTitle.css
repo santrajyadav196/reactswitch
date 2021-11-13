@@ -1,0 +1,39 @@
+.back-service-img {
+  background-image: url("../../../../Assets/Images/servicesTitle.png");
+  background-repeat: repeat no-repeat;
+}
+
+.row-margin-t {
+  padding-top: 10rem;
+}
+
+.row-margin-b {
+  padding-bottom: 3rem;
+}
+
+.img-container {
+  background-color: #ffffff;
+}
+
+.getStarted-Btn {
+  font-size: 18px;
+  border-radius: 10px;
+  border: solid 1px #ffffff;
+  background-color: #324168;
+  color: #ffffff;
+  padding: 8px;
+}
+
+.getStarted-Btn:hover {
+  background-color: #415382;
+  color: #ffffff;
+}
+
+.getStartedLink:hover {
+  cursor: pointer;
+}
+
+.video-img {
+  width: 100%;
+  height: auto;
+}

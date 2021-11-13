@@ -1,0 +1,39 @@
+
+.bg {
+  
+  border-radius: 31px 0 0 0;
+  background-color: #f4f5f6;
+}
+
+.Hello-James {
+  width: 326px;
+  height: 71px;
+  margin: 4px 22px 0 38px;
+  font-family: Poppins;
+  font-size: 50px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #1a1a1a;
+
+
+}
+
+.Lets-get-you-set-up {
+  width: 322px;
+  height: 28px;
+  margin-top: 6px;
+  margin-left: 38px;
+  font-family: Poppins;
+  font-size: 20px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #7d7e82;
+
+
+}

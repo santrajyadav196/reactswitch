@@ -1,0 +1,110 @@
+.title_week {
+    font-family: Poppins;
+    font-size: 20px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #1a1a1a;
+}
+
+.filter_ttl {
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: right;
+    color: #1a1a1a;
+}
+
+.box_week {
+    border-radius: 12px;
+    box-shadow: 0 8px 12px 0 rgba(238, 241, 245, 0.89);
+    background-color: #fff;
+    padding-bottom:20px;
+}
+
+.header_of_box {
+    border-radius: 12px 12px 0px 0px;
+    background-color: #f6f7fb;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    box-shadow: 0px -4px 5px 2px rgb(187 190 194 / 89%);
+}
+
+.ele_font_ss {
+    font-family: Poppins;
+    font-size: 14px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    text-align: center;
+
+    letter-spacing: normal;
+    color: #1a1a1a;
+}
+
+.form_select_d {
+    width: auto;
+    border: none !important;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #1a1a1a;
+
+}
+
+.number_font {
+    font-family: Poppins;
+    font-size: 14px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: center;
+    color: #7d7e82;
+}
+
+.input_weekd {
+
+    width: 314px !important;
+    height: 40px !;
+    margin: 2px 174px 16px 24px;
+    padding: 10px 113px 10px 16px;
+    border-radius: 8px !important;
+    border: solid 1px #7d849e !important;
+    background-color: #fff !important;
+    font-family: Poppins;
+    font-size: 14px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #1a1a1a;
+
+}
+
+.box_iput_pro {
+    width: 50px;
+    height: 40px;
+    margin: 0 30px 0 0;
+    padding: 10px 21px 10px 20px;
+    border-radius: 8px;
+    border: solid 1px #7d849e;
+    background-color: #fff;
+}
+
+.btn_save {
+    width: 200px;
+}

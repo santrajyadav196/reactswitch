@@ -1,0 +1,212 @@
+.steps {
+    padding-top: 0.3rem;
+    padding-bottom: 0.3rem;
+    background-color: rgb(218, 222, 236);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #7d7e82;
+    font-family: Poppins;
+    font-size: 14px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+}
+
+.active-steps {
+    background-color: #6d5ed3;
+    color: white;
+}
+
+.create_your_propodal {
+    font-family: Poppins;
+    font-size: 30px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #1a1a1a;
+}
+
+.iwant_create_span {
+    font-family: Poppins;
+    font-size: 14px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #1a1a1a;
+}
+
+.shadow_d_09 {
+    padding: 18px 17px 18px 16px;
+    border-radius: 12px;
+    background-color: #7d7e8225;
+    font-family: Poppins;
+    font-size: 14px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #7d7e82;
+}
+
+.selected_shadow_d_09 {
+    background-color: #6d5ed328;
+    color: #6d5ed3
+}
+
+.with_rate {
+    width: 6rem !important
+}
+
+.with_flat_f {
+    width: 10rem !important
+}
+
+.Service-Total {
+
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #1a1a1a;
+}
+
+.text_colr {
+    color: #6d5ed3 !important;
+}
+
+.Add-another-Address {
+
+    font-family: Poppins;
+    font-size: 14px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #1a1a1a;
+}
+
+.Youll-be-reminded-t {
+ 
+    font-family: Poppins;
+    font-size: 14px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    color: #7d7e82;
+}
+
+.CrProposal-Create-your-proposal {
+  font-family: Poppins;
+  font-size: 30px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #1a1a1a;
+}
+
+.CrProposal-Rectangle {
+  width: 650px;
+  height: 482px;
+  margin: 24px 0px 30px 0;
+  padding: 24px;
+  border-radius: 12px;
+  position: absolute;
+  /* box-shadow: 0 8px 12px 0 rgba(238, 241, 245, 0.89); */
+  border: solid 3px #e5e7f0;
+  background-color: #fff;
+}
+
+.CrProposal-form-label {
+  font-family: Poppins;
+  font-size: 14px;
+  font-weight: 500 !important;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #1a1a1a;
+}
+
+.CrProposal-RectangleOne {
+  width: 602px;
+  height: 56px;
+  margin: 6px 0;
+  padding: 12px 16px 12px 16px;
+  border-radius: 8px;
+  border: solid 2px #7d849e;
+  background-color: #fff;
+}
+
+.CrProposal-Date-Rectangle {
+  width: 289px !important;
+  height: 56px;
+  margin: 6px 6px 18px 12px;
+  padding: 10px 20px 10px 20px;
+  border-radius: 12px;
+  border: solid 1px #7d849e;
+  background-color: #fff;
+}
+
+.CrProposal-Proposal-And-Contract {
+  width: 192px;
+  height: 56px;
+  margin: 6px 0 0 0;
+  padding: 18px 17px 18px 16px;
+  border-radius: 12px;
+  background-color: #f2ecfb;
+}
+
+.CrProposal-Proposal-Only {
+  width: 126px;
+  height: 56px;
+  margin: 6px 0 0 -9px;
+  padding: 18px 14px 18px 16px;
+  border-radius: 12px;
+  background-color: #f2ecfb;
+}
+
+.CrProposal-Proposal-Only-Text {
+  font-family: Poppins;
+  font-size: 14px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #6d5ed3;
+}
+
+.CrProposal-Contract-Only {
+  width: 131px;
+  height: 56px;
+  margin: 6px 0 0 -64px;
+  padding: 17px 12px 15px 16px;
+  border-radius: 12px;
+  background-color: #f2ecfb;
+}
+
+.CrProposal-Service-Rectangle {
+  width: 650px;
+  height: 101px;
+  margin: 30px -27px;
+  /* padding: 24px 24px 21px; */
+  border-radius: 12px;
+  border: solid 3px #e5e7f0;
+  background-color: #fff;
+}

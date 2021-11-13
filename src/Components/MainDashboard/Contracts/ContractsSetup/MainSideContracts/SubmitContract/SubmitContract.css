@@ -1,0 +1,178 @@
+.setupReview {
+  padding: 15px 25px 20px 25px;
+  position: relative;
+}
+
+.cursorOnChange {
+  cursor: pointer;
+}
+
+.contractSetup {
+  padding: 22px 0 22px 0;
+  font-family: Nunito;
+  font-size: 18px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.22;
+  letter-spacing: normal;
+  text-align: left;
+  color: #ffffff;
+  background-color: #fa6e31;
+  clip-path: polygon(0 0, 100% 0%, calc(100% - 32px) 100%, 0% 100%);
+  width: 34%;
+  padding-left: 15px;
+}
+
+.contractReview {
+  padding: 22px 0 22px 0;
+  font-family: Nunito;
+  font-size: 18px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.22;
+  letter-spacing: normal;
+  text-align: left;
+  width: 33%;
+  padding-left: 15px;
+}
+
+.contractSend {
+  padding: 22px 0 22px 0;
+  font-family: Nunito;
+  font-size: 18px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.22;
+  letter-spacing: normal;
+  text-align: left;
+  width: 33%;
+  padding-left: 15px;
+}
+
+.contractType {
+  margin: 10px 0;
+}
+
+.createCont {
+  font-family: Nunito;
+  font-size: 16px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.38;
+  letter-spacing: normal;
+  text-align: left;
+  color: #333333;
+}
+
+.typeBtns {
+  margin-top: 15px;
+  display: flex;
+}
+
+.typeBtn {
+  font-size: 16px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.38;
+  letter-spacing: normal;
+  text-align: left;
+  color: #727272;
+  margin-left: 10px;
+  padding: 10px;
+  border: solid 1px #ebebeb;
+  cursor: pointer;
+}
+
+.typeBtn:hover {
+  color: #fa6e31;
+  background-color: #eaeaea;
+  border: solid 1px #fa6e31;
+}
+
+.projectTotal {
+  font-size: 24px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 0.92;
+  letter-spacing: normal;
+  text-align: left;
+  color: #323232;
+}
+
+.inputCost {
+  font-size: 16px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  color: #767675;
+}
+
+.select-currency {
+  margin: 1.5rem 0;
+}
+
+.react-autosuggest__input {
+  width: 100px !important;
+  height: 30px;
+  padding: 0 !important;
+  font-family: Nunito !important;
+  font-weight: 300;
+  font-size: 16px;
+  border: none !important;
+}
+
+.react-autosuggest__suggestions-container--open {
+  font-size: 16px !important;
+  height: 215px;
+  width: 235px !important;
+  right: 30px;
+}
+
+.nextReview {
+  border-radius: 5px;
+  background-color: #fa6e31;
+  font-size: 18px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: center;
+  color: #ffffff;
+  float: right;
+  width: 130px;
+  padding: 3px 0;
+  cursor: pointer;
+}
+
+@media (max-width: 449px) {
+  .setupReview {
+    padding: 15px 0 20px 0;
+    position: relative;
+  }
+  .contractSetup {
+    padding-left: 10px;
+  }
+  .contractReview {
+    padding-left: 10px;
+  }
+  .contractSend {
+    padding-left: 10px;
+  }
+}
+/* 
+@media (max-width: 499px) {
+  .react-autosuggest__suggestions-container--open {
+    font-size: 13px !important;
+    width: 120px !important;
+  }
+} */

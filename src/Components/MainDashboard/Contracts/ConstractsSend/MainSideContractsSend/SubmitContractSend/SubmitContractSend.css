@@ -1,0 +1,200 @@
+.contractSetup_send {
+  padding: 22px 0 22px 0;
+  font-family: Nunito;
+  font-size: 18px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.22;
+  letter-spacing: normal;
+  text-align: left;
+  color: #ffffff;
+  background-color: #fa6e31;
+  width: 34%;
+  padding-left: 15px;
+}
+
+.contractReview_send {
+  padding: 22px 0 22px 0;
+  font-family: Nunito;
+  font-size: 18px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.22;
+  letter-spacing: normal;
+  text-align: left;
+  color: #ffffff;
+  width: 33%;
+  background-color: #fa6e31;
+}
+
+.contractSend_send {
+  padding: 22px 0 22px 0;
+  font-family: Nunito;
+  font-size: 18px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.22;
+  letter-spacing: normal;
+  text-align: left;
+  width: 33%;
+  padding-left: 15px;
+  color: #ffffff;
+  background-color: #fa6e31;
+}
+
+.sendTo {
+  padding: 10px 17px 9px 0;
+  font-size: 18px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.22;
+  letter-spacing: normal;
+  text-align: left;
+  color: #4c4c4c;
+}
+
+.senderBox {
+  padding: 0 17px;
+  border: solid 1px #ebebeb;
+}
+
+.senderCheck {
+  margin: 10px 5px 0 5px;
+}
+
+.senderName {
+  padding: 10px 17px 9px 17px;
+  font-size: 18px;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.22;
+  letter-spacing: normal;
+  text-align: left;
+  color: #4c4c4c;
+  margin-right: 7px;
+}
+
+.addSender {
+  position: absolute;
+  right: 0;
+  margin-right: 40px;
+  cursor: pointer;
+}
+
+.addSender:hover path {
+  fill: #fa6e31;
+}
+
+.senderAddIcon {
+  margin: 10px 5px 0 5px;
+  float: right;
+}
+
+.nameReci {
+  font-size: 18px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.22;
+  letter-spacing: normal;
+  text-align: left;
+  color: #4c4c4c;
+  margin-bottom: 7px;
+}
+
+.emailReci {
+  font-size: 18px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.22;
+  letter-spacing: normal;
+  text-align: left;
+  color: #4c4c4c;
+}
+
+.addRecipient {
+  font-size: 18px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.22;
+  letter-spacing: normal;
+  text-align: left;
+  color: #fa6e31;
+  cursor: pointer;
+}
+
+.nameEmail {
+  justify-content: inherit;
+  margin: 10px 0;
+}
+
+.recipients {
+  justify-content: space-between;
+  margin: 50px 0;
+}
+
+.nameEmailWidth {
+  width: 55%;
+}
+
+.reviewProposalHeader {
+  font-size: 24px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  letter-spacing: normal;
+  text-align: left;
+  color: #000000;
+  margin-bottom: 50px;
+}
+
+.messageBody {
+  font-size: 18px;
+  font-weight: normal;
+  font-stretch: normal;
+  height: 200px;
+  font-style: normal;
+  line-height: 1.22;
+  letter-spacing: normal;
+  text-align: left;
+  color: #4c4c4c;
+  border: none;
+  overflow: hidden;
+  width: -webkit-fill-available;
+}
+
+.sendMail {
+  float: right;
+  display: flex;
+}
+
+.previewMail {
+  font-size: 18px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.2;
+  letter-spacing: normal;
+  text-align: center;
+  color: #fa6e31;
+  width: 130px;
+  padding: 3px 0;
+}
+
+@media (max-width: 499px) {
+  .movePageReview,
+  .movePageReviewBack,
+  .backDisabled {
+    width: 90px !important;
+  }
+  .previewMail {
+    width: 90px;
+  }
+}

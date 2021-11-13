@@ -1,0 +1,348 @@
+.TimeTrackingTimer-Rectangle {
+  width: 312px;
+  margin: 24px 368px 30px 0px;
+  padding: 0px 0px 0px 0px;
+  border-radius: 12px;
+  box-shadow: 0 8px 12px 0 rgba(238, 241, 245, 0.89);
+  background-color: #fff;
+}
+
+.TimeTrackingTimer-Bg-BrandColor {
+  padding: 12px 24px 13px 24px;
+  border-radius: 12px;
+  font-family: Poppins;
+  font-size: 14px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  background-color: #6d5ed3;
+  color: white;
+}
+
+.TimeTrackingTimer-Bg-Not-Selected {
+  padding: 12px 24px 13px 24px;
+  font-family: Poppins;
+  font-size: 14px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #7d7e82;
+}
+
+.TimeTrackingTimer-TextFont2 {
+  font-family: Poppins;
+  font-size: 14px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #7d7e82;
+}
+
+.TimeTrackingTimer-WeekView {
+  margin: 12px 0 0 27px;
+}
+
+.TimeTrackingTimer-ThreeDot {
+  margin: 30px 0px 0 0px;
+}
+
+.TimeTrackingTimer-RectangleOne {
+  width: 100%;
+  height: auto;
+  margin: 30px 0px 30px;
+  padding: 24px;
+  border-radius: 12px;
+  box-shadow: 0 8px 12px 0 rgba(238, 241, 245, 0.89);
+  background-color: #fff;
+}
+
+.TimeTrackingTimer-PlayBtn {
+  width: 64px;
+  height: 64px;
+}
+
+.TimeTrackingTimer-TextFont1 {
+  font-family: Poppins;
+  font-size: 14px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #1a1a1a;
+}
+
+.TimeTrackingTimer-TextFont1-Big {
+  font-size: 18px;
+}
+
+.TimeTrackingTimer-CrProject-Rectangle {
+  width: 500px;
+  margin: 4px 5px 4px 0px;
+  padding: 16px 16px 16px 16px;
+  border-radius: 12px;
+  background-color: #f2ecfb;
+}
+
+.TimeTrackingTimer-AssignToProject-Rectangle {
+  width: 187px;
+  height: 40px;
+  margin: 11px 0 9px 0px;
+  padding: 6px 9px;
+  cursor: pointer;
+  border-radius: 12px;
+  border: solid 1px #6d5ed3;
+  background-color: #fff;
+}
+
+.TimeTrackingTimer-AssignToProject-Rectangle2 {
+  width: 321px;
+  height: 43px;
+  margin: 11px 0 9px -30px;
+  padding: 6px 9px;
+  border-radius: 12px;
+  border: solid 1px #6d5ed3;
+  background-color: #fff;
+}
+
+.TimeTrackingTimer-TextBrand {
+  font-family: Poppins;
+  font-size: 14px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #6d5ed3;
+}
+
+.TimeTrackingTimer-Timer-BigFont {
+  margin: 0px 15px 0px 15px;
+  font-family: Poppins;
+  font-size: 20px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #1a1a1a;
+}
+
+.TimeTrackingTimer-FilterFilter {
+  font-size: 16px;
+  cursor: pointer;
+}
+.TimeTrackingTimer-SortSort {
+  font-size: 16px;
+}
+
+.TimeTrackingTimer-Cursor {
+  cursor: pointer;
+}
+
+.TimeTrackingTimer-StraightLinePartition {
+  width: 1px;
+  height: 30px;
+  margin: 0px 0 0 0px;
+  border-right: 1px solid #c2c7da;
+}
+
+.TimeTrackingTimer-Plus-Oval {
+  width: 40px;
+  height: 40px;
+  margin: -3px 5px 0px 11px;
+  cursor: pointer;
+  padding: 5px 8px;
+  border-radius: 50%;
+  background-color: #6d5ed3;
+}
+
+.TimeTrackingTimer-Edit-Oval {
+  width: 40px;
+  height: 40px;
+  margin: -3px 16px 0px;
+  cursor: pointer;
+  padding: 8px;
+  border-radius: 50%;
+  background-color: #7fb97a;
+}
+
+.TimeTrackingTimer-Table-Rectangle {
+  width: 100%;
+  height: 83px;
+  margin: 0px 0px 0px 0px;
+  padding: 3px;
+  border-radius: 12px;
+  border-bottom: 1px solid #e9eaf0;
+  box-shadow: 0 8px 12px 0 rgba(238, 241, 245, 0.9);
+  background-color: #fff;
+}
+
+.TimeTrackingTimer-CrProject-Rectangle2 {
+  width: 100%;
+  height: 30px;
+  margin: -3px 0px 0px 0px;
+  padding: 5px 7px 5px 12px;
+  border-radius: 12px;
+  background-color: #f2ecfb;
+}
+
+.TimeTrackingTimer-Table-Padding {
+  padding-top: 30px !important;
+}
+.TimeTrackingTimer-Counter {
+  width: 28px;
+  height: 26px;
+  border: 2px solid black;
+}
+
+.TimeTrackingTimer-Counter-UpArrow {
+  margin: -33px 12px 17px -28px;
+  object-fit: contain;
+}
+
+.TimeTrackingTimer-Counter-downArrow {
+  margin: 0px 9px -44px -27px;
+  object-fit: contain;
+}
+
+.TimeTrackingTimer-Table-RectangleOne {
+  width: 100%;
+  height: auto;
+  margin: 30px 30px 30px;
+  padding: 3px;
+  border-radius: 12px;
+  border-bottom: 1px solid #e9eaf0;
+  box-shadow: 0 8px 12px 0 rgba(238, 241, 245, 0.9);
+  background-color: #fff;
+}
+
+.TimeTrackingTimer-Table-Rectangle2 {
+  width: 100%;
+  height: auto;
+  margin: 0px 0px 0px 0px;
+  padding: 3px 3px 30px 0px;
+  border-radius: 12px;
+  border-bottom: 1px solid #e9eaf0;
+  box-shadow: 0 8px 12px 0 rgba(238, 241, 245, 0.9);
+  background-color: #fff;
+}
+
+.TimeTrackingTimer-play-circle-fill-3 {
+  width: 24px;
+  height: 24px;
+  margin: 0px 0px 0px 10px;
+  object-fit: contain;
+}
+
+.TimeTrackingTimer-Start-Timer {
+  margin: 0px 0px 0px 0px;
+  font-family: Poppins;
+  font-size: 16px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #1a1a1a;
+}
+
+.TimeTrackingTimer-Start-Timer-Tracking {
+  width: 1px;
+  height: 40px;
+  margin: 0px 0px 0px 22px;
+  opacity: 0.2;
+  border: solid 0.5px #979797;
+}
+
+.TimeTrackingTimer-Start-Timer-Tracking-Oval {
+  width: 10px;
+  height: 10px;
+  margin: 0px 9px 0px 10px;
+  border-radius: 50%;
+  background-color: #7d7e82;
+}
+
+.TimeTrackingTimer-Margin-Top {
+  margin-top: -40px !important;
+}
+
+.TimeTrackingTimer-Merge-Timer {
+  width: 24px;
+  height: 24px;
+  margin: 0px 0px 0 12px;
+  object-fit: contain;
+}
+
+.TimeTrackingTimer-Merge-Activity {
+  display: inline-block;
+  margin: 18px 0px 0px 18px;
+}
+
+.TimeTrackingTimer-Timer-Activity-Clock-Rectangle {
+  position: fixed;
+  bottom: 0;
+  width: 73%;
+  height: 56px !important;
+  margin: 0px 0px 0px -14px;
+  padding: 14px 60px 14px 16px;
+  border-radius: 12px;
+  background-color: #f4614e;
+}
+
+.TimeTrackingTimer-Timer-Activity-Stop {
+  width: 24px;
+  height: 24px;
+  margin: -6px 0px 0px 0;
+  object-fit: contain;
+}
+
+.TimeTrackingTimer-Timer-Activity-Timer {
+  margin: 0 0px 0 12px;
+  font-family: Poppins;
+  font-size: 20px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #fff;
+}
+
+.TimeTrackingTimer-Timer-Activity-white-File-Symbol {
+  width: 18px;
+  height: 18px;
+  margin: 2px 13px 5px 40px;
+  object-fit: contain;
+}
+
+.TimeTrackingTimer-FontWhite {
+  font-family: Poppins;
+  font-size: 14px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #fff;
+}
+
+.TimeTrackingTimer-Timer-Activity-white-close-circle {
+  width: 24px;
+  height: 24px;
+  margin: 3px 0 0 12px;
+  object-fit: contain;
+}
+
+.TimeTrackingTimer-Timer-Activity-white-building-File-Symbol {
+  width: 24px;
+  height: 24px;
+  margin: 0 8px 0 0;
+  object-fit: contain;
+}

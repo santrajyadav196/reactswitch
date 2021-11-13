@@ -1,0 +1,23 @@
+.pricing-title {
+  font-size: 48px;
+  font-weight: bold;
+  margin-bottom: 15px;
+}
+
+.back-img {
+  background-image: url("../../../Assets/Images/navTitle.png");
+}
+
+.pricing-desc {
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 1.67;
+}
+
+.row-margin-t {
+  padding-top: 10rem;
+}
+
+.row-padding-b {
+  padding-bottom: 10rem;
+}

@@ -1,0 +1,62 @@
+.customer-testimonial {
+  margin-top: 50px;
+}
+
+.CustomerTile {
+  width: 100%;
+  height: fit-content;
+}
+
+.cust-tile-testimonial {
+  width: 100%;
+  border-radius: 5px;
+  box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.08);
+  background-color: #ffffff;
+}
+
+.header-cust-testimonial {
+  padding: 40px;
+}
+
+.cust-desc-testimonial {
+  font-size: 30px;
+  text-align: center;
+}
+
+.footer-img-rev {
+  position: absolute;
+}
+
+.cust-img-logo {
+  width: 47px;
+  height: 47px;
+  left: 13%;
+  bottom: 9%;
+  border-radius: 50%;
+  position: absolute;
+  background-color: #ebebeb;
+}
+
+.cust-name-footer {
+  font-size: 16px;
+  font-weight: 500;
+  position: absolute;
+  left: 35%;
+  bottom: 13%;
+  text-align: left;
+  color: #ffffff;
+}
+
+.cust-company-footer {
+  font-size: 12px;
+  font-weight: 500;
+  position: absolute;
+  left: 35%;
+  bottom: 9%;
+  text-align: left;
+  color: #ffffff;
+}
+
+.footer-cust-testimonial {
+  height: 95px;
+}

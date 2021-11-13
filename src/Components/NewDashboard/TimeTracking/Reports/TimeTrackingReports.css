@@ -1,0 +1,120 @@
+.TimeTrackingreports-Rectangle {
+  width: 100%;
+  height: auto;
+  padding: 20px 6px 20px 15px;
+  border-radius: 12px;
+  border-bottom: 1px solid #e9eaf0;
+  box-shadow: 0 8px 12px 0 rgba(238, 241, 245, 0.89);
+  background-color: #fff;
+}
+
+.TimeTrackingReports-Tooltip-Rectangle {
+  margin: 40px 20px 0 20px;
+  padding: 10px 15px 10px 15px;
+  background-color: #fff;
+  border-radius: 12px;
+  border: 1px solid #b6bac7;
+}
+
+.TimeTrackingReports-Tooltip-label {
+  text-align: center;
+  font-family: Poppins;
+  font-size: 12px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #1a1a1a;
+}
+
+.TimeTrackingReports-Tooltip-Payload {
+  margin: -10px 0 0 0;
+  text-align: center;
+  font-family: Poppins;
+  font-size: 18px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #6d5ed3;
+}
+
+.TimeTrackingReports-CustomizedLabel {
+  font-family: Poppins;
+  font-size: 12px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+}
+
+.TimeTrackingReports-Percentage-PieChart {
+  text-align: center;
+  font-family: Poppins;
+  font-size: 14px;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #1a1a1a;
+}
+
+.TimeTrackingReports-PieChart-Legend {
+  margin-left: 15px;
+  font-family: Poppins;
+  font-size: 12px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #6d5e82;
+}
+
+.TimeTrackingReports-TextFont1 {
+  font-family: Poppins;
+  font-size: 14px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #1a1a1a;
+}
+
+.TimeTrackingReports-TextFont2 {
+  font-family: Poppins;
+  font-size: 14px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #6d5e82;
+}
+
+.TimeTrackingReports-Table-Rectangle {
+  width: 100%;
+  height: auto;
+  padding: 18px 6px 14px 15px;
+  border-bottom: 1px solid #e9eaf0;
+  background-color: #fff;
+}
+
+.TimeTrackingReports-Table-RectangleOne {
+  width: 100%;
+  height: auto;
+  padding: 10px 0px 10px 0px;
+  /* border: 1px solid #e9eaf0; */
+}
+
+@media screen and (-webkit-min-device-pixel-ratio: 0) {
+  input[type="date"].Date {
+    line-height: 20px;
+    width: 80%;
+  }
+}

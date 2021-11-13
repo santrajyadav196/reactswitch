@@ -1,0 +1,17 @@
+@font-face {
+  font-family: "Nunito";
+  src: url("./Nunito-Regular.ttf") format("truetype");
+}
+
+.Dashboard,
+.Clients,
+.Projects,
+.ContractSetup,
+.ContractReview,
+.ContractSend,
+.InvoiceSetup,
+.InvoiceReview,
+.InvoiceSend,
+.Statements {
+  font-family: Nunito;
+}

@@ -1,0 +1,19 @@
+.NewIncomes-fileAttachment {
+    margin: 2px -30px 2px 0px;
+    object-fit: contain;
+  }
+  
+  .NewIncomes-delete {
+    margin: 2px -40px 2px 62px;
+    object-fit: contain;
+  }
+
+  .NewIncomes-edit {
+    margin: 2px -40px 2px 58px;
+    object-fit: contain;
+  }
+
+  .NewIncomes-more {
+    margin: 2px -38px 2px 70px;
+    object-fit: contain;
+  }

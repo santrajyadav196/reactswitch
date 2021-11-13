@@ -1,0 +1,29 @@
+.box_notes {
+
+    width: 1056px;
+    height: 494px;
+    margin: 24px 30px 0;
+    padding: 24px 24px 115px;
+    border-radius: 12px;
+    box-shadow: 0 8px 12px 0 rgba(238, 241, 245, 0.89);
+    background-color: #fff;
+
+}
+
+
+.txt-area-frm {
+    width: 1008px;
+    height: 355px;
+    padding: 18px 899px 317px 20px;
+    border-radius: 12px;
+    border: solid 1px #7d849e;
+    background-color: #fff;
+    font-family: Poppins;
+    font-size: 14px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #7d7e82;
+}

@@ -1,0 +1,75 @@
+.TimeTrackingTimer_AssignToProject_Rectangle {
+  width: 500px;
+  height: auto;
+  margin: 33px 156px 113px 95px;
+  padding: 30px 15px;
+  border-radius: 12px;
+  box-shadow: 0 8px 12px 0 rgba(17, 17, 17, 0.2);
+  background-color: #fff;
+}
+
+.TimeTrackingTimer_AssignToProject_Assign-To-Project {
+  margin: 0 245px 36px 0;
+  font-family: Poppins;
+  font-size: 20px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #1a1a1a;
+}
+
+.TimeTrackingTimer-Assign-To-Project-Form-Rectangle {
+  width: 440px;
+  height: 56px;
+  margin: 12px 0 0;
+  padding: 16px 16px 16px 18px;
+  border-radius: 12px;
+  border: solid 1px #7d849e;
+  background-color: #fff;
+}
+
+.TimeTrackingTimer-Assign-To-Project-Cancel-Rectangle {
+  width: 208px;
+  height: 56px;
+  margin: 0px 0px 0px 0px;
+  padding: 10px 25px 18px 79px;
+  border-radius: 12px;
+  border: solid 1px #6d5ed3;
+  background-color: #fff;
+}
+
+.TimeTrackingTimer-Assign-To-Project-Cancel {
+  margin: 8px 53px 0 0;
+  font-family: Poppins;
+  font-size: 14px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: center;
+  color: #6d5ed3;
+}
+
+.TimeTrackingTimer-Assign-To-Project-Save-Rectangle {
+  width: 208px;
+  height: 56px;
+  margin: 0px 0px 0px 0px;
+  padding: 18px 86px 18px 87px;
+  border-radius: 12px;
+  background-color: #6d5ed3;
+}
+
+.TimeTrackingTimer-Assign-To-Project-Save {
+  font-family: Poppins;
+  font-size: 14px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: center;
+  color: #fff;
+}

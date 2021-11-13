@@ -1,0 +1,145 @@
+.TimeTrackingTimerEditList-Rectangle {
+  width: 1200px !important;
+  height: auto;
+  margin: 106px 152px;
+  padding: 30px 15px;
+  border-radius: 12px;
+  box-shadow: 0 8px 12px 0 rgba(17, 17, 17, 0.2);
+  background-color: #fff;
+}
+
+.TimeTrackingTimerEditLis-ClosedBtn {
+  cursor: pointer;
+  vertical-align: middle;
+  border-style: none;
+}
+
+.TimeTrackingTimerEditList-Edit {
+  font-size: 20px;
+}
+.TimeTrackingTimerEditList-CheckBox {
+  margin: -3px 0 0 30px;
+}
+
+.TimeTrackingTimerEditList-RectangleOne {
+  width: 1200px !important;
+  height: 83px !important;
+  margin: 21px 0 30px -30px;
+  padding: 12px 6px 0 0;
+  border-bottom: 1px solid #e9eaf0;
+  box-shadow: 0 8px 12px 0 rgb(238 241 245 / 90%);
+  background-color: #fff;
+}
+
+.TimeTrackingTimerEditList-RectangleTwo {
+  width: 1200px !important;
+  height: auto;
+  margin: -30px 0 30px -30px;
+  padding: 0px 0px 30px 0;
+  border-bottom: 1px solid #e9eaf0;
+  box-shadow: 0 8px 12px 0 rgb(238 241 245 / 90%);
+  background-color: #fff;
+}
+.TimeTrackingTimerEditList-play-circle-fill-3 {
+  width: 24px;
+  height: 24px;
+  margin: 0px 0px 0px 80px;
+  object-fit: contain;
+}
+
+.TimeTrackingTimerEditList-Start-Timer-Tracking {
+  width: 1px;
+  height: 40px;
+  margin: 0px 0px 0px 91px;
+  opacity: 0.2;
+  border: solid 0.5px #979797;
+}
+.TimeTrackingTimerEditList-MarginTop {
+  margin-top: -6px;
+}
+
+.TimeTrackingTimerEditList-Start-Timer-Tracking-Oval {
+  width: 10px;
+  height: 10px;
+  margin: 0px 9px 0px 7px;
+  border-radius: 50%;
+  background-color: #7d7e82;
+}
+
+.TimeTrackingTimerEditList-MarginLeft-Merge {
+  margin-left: 68px;
+}
+
+.TimeTrackingTimerEditList-SelectAll {
+  width: 117px;
+  height: 30px;
+  margin: 0px 0px 0px 0px;
+  padding: 2px 8px 3px 12px;
+  border-radius: 12px;
+  background-color: #f2ecfb;
+}
+
+.TimeTrackingTimerEditList-CheckBoxSelectAll {
+  width: 18px;
+  height: 18px;
+  margin: 1px 8px 3px 0;
+  object-fit: contain;
+}
+
+.TimeTrackingTimerEditList-EditActivities {
+  width: 142px;
+  height: 30px;
+  margin: 0px 0px 0px 0px;
+  padding: 1px 1px 1px 1px;
+  border-radius: 8px;
+  background-color: #f3f5fb;
+}
+
+.TimeTrackingTimerEditList-Delete-Rectangle {
+  width: 208px;
+  height: 56px;
+  margin: 0px 0px 0 0px;
+  padding: 18px 81px 18px 82px;
+  border-radius: 12px;
+  border: solid 1px #6d5ed3;
+  background-color: #fff;
+}
+.TimeTrackingTimerEditList-Delete {
+  font-family: Poppins;
+  font-size: 14px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: center;
+  color: #6d5ed3;
+}
+
+.TimeTrackingTimerEditList-Merge-Rectangle {
+  width: 208px;
+  height: 56px;
+  margin: 0px 0px 0 0px;
+  padding: 18px 81px 18px 82px;
+  border-radius: 12px;
+  background-color: #6d5ed3;
+}
+
+.TimeTrackingTimerEditList-Merge {
+  font-family: Poppins;
+  font-size: 14px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: center;
+  color: #fff;
+}
+
+@media (min-width: 576px) {
+  .modal-dialog-TimetrackingTimerEditList {
+    max-width: 1200px !important;
+    /* margin: 1.75rem auto; */
+  }
+}

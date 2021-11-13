@@ -1,0 +1,208 @@
+.ele_txt_font_contracts {
+    font-family: Poppins;
+    font-size: 14px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #1a1a1a;
+    text-align: center;
+}
+
+.draft {
+    padding: 5px 19px 5px 20px;
+    border-radius: 8px;
+    background-color: #7d7e821c;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #7d7e82;
+}
+
+.ml1_ {
+    margin-left: 0.5px;
+}
+
+.box_with_serivcecontrtacts {
+    width: 55rem;
+    padding: 24px 24px 24px 24px;
+    border-radius: 12px;
+    box-shadow: 0 8px 12px 0 rgba(61, 61, 61, 0.09), 0 0 6px 0 rgba(66, 66, 66, 0.1);
+    background-color: #fff;
+}
+
+.edit_cl_contract {
+
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #6d5ed3;
+}
+
+.service_contract {
+
+    font-family: Poppins;
+    font-size: 40px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #1a1a1a;
+}
+
+.fitness_app {
+
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #1a1a1a;
+}
+
+.text_ {
+
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #1a1a1a;
+}
+
+.___ {
+
+    width: 847px;
+    height: 54px;
+    margin: 13px 11px 30px 1px;
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    letter-spacing: normal;
+    color: #7d7e82
+}
+
+.bottom__dash {
+
+
+    height: 1px;
+    margin: 138px 16px 16px 0;
+    border: solid 1px #b2b6c5;
+
+}
+
+.Starts-08-Aug-2021 {
+
+    font-family: Poppins;
+    font-size: 14px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #7d7e82;
+}
+
+.Starts-08-Aug-2021 .text-style-1 {
+    font-weight: 500;
+    color: #1a1a1a;
+}
+
+.Starts-08-Aug-2021 .text-style-2 {
+    font-weight: 500;
+}
+
+.Line-Copy {
+
+    height: 1px;
+    margin: 40px 0;
+    border: solid 1px #b2b6c5;
+}
+
+.box_with_serivcecontrtacts_ {
+    width: 55rem;
+
+    padding: 24px 24px 152px 59px;
+    border-radius: 12px;
+    box-shadow: 0 3px 12px 0 rgba(238, 241, 245, 0.89);
+    border: solid 2px #6d5ed3;
+    background-color: #fff;
+}
+
+.dotted_rectangle {
+
+    margin: 30px 12px 30px 1px;
+    padding: 26px 24px 24px;
+    border: dotted 1px #6d5ed3;
+    background-color: #fff;
+}
+
+.after_hover {
+    display:
+        block;
+    position: absolute;
+}
+
+.title_d:hover .after_hover {
+    display: block !important;
+    position: absolute;
+    opacity: 1;
+
+
+}
+
+.title_d:hover .fitapp {
+    opacity: 0.2
+}
+
+.btns_ds {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 45rem;
+}
+
+.edit_rv_con {
+
+
+    margin: 0 0 0 0;
+    padding: 12px 29px 11px;
+    border-radius: 7px;
+    box-shadow: 0 8px 12px 0 rgba(61, 61, 61, 0.09), 0 0 6px 0 rgba(66, 66, 66, 0.1);
+    background-color: #7fb97a;
+    color: white;
+}
+
+.edit_rv_con_hide {
+
+
+    margin: 0 0 0 30px;
+    padding: 12px 22px 11px 29px;
+    border-radius: 7px;
+    box-shadow: 0 8px 12px 0 rgba(61, 61, 61, 0.09), 0 0 6px 0 rgba(66, 66, 66, 0.1);
+    background-color: #383838;
+
+
+}
+
+/* span {
+    display: none;
+}
+
+div:hover+span {
+    display: block;
+} */

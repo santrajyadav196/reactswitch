@@ -1,0 +1,10 @@
+<svg width="20" height="20" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <path id="a" d="M3.394 6.424.848 3.88 0 4.727l3.394 3.394L10.667.848 9.818 0z"/>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <rect fill="#6D5ED3" width="20" height="20" rx="2.727"/>
+        <path d="M2.727 2.727h14.546v14.546H2.727z"/>
+        <use fill="#FFF" xlink:href="#a" transform="translate(4.788 6.121)"/>
+    </g>
+</svg>

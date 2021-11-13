@@ -1,0 +1,380 @@
+.Navbar-Unity-Name {
+  margin: 10px 0 10px 0;
+  font-family: Poppins;
+  font-size: 20px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #1a1a1a;
+}
+
+.Navbar-Search {
+  margin: 10px 0px 10px 6px;
+  object-fit: contain;
+}
+
+.Navbar-Notification {
+  margin: 10px 0px 10px -18px;
+  object-fit: contain;
+}
+
+.Navbar-Create-Rectangle {
+  width: 124px;
+  height: 48px;
+  margin: 0 0 0 -42px;
+  padding: 10px 15px 10px 15px;
+  border-radius: 12px;
+  background-color: #6d5ed3;
+}
+
+.Navbar-Add {
+  /* width: 24px;
+  height: 24px; */
+  /* margin: 0 0 0 0; */
+  object-fit: contain;
+}
+
+.Navbar-Create {
+  margin: 0 0 0 12px;
+  font-family: Poppins;
+  font-size: 14px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #fff;
+}
+
+.Navbar-Play-Icon {
+  margin: 0 30px;
+  object-fit: contain;
+}
+
+.Transaction-NewExpense-Rectangle {
+  width: 160px;
+  height: 48px;
+  margin: 36px 30px 16px 0;
+  padding: 10px 12px;
+  border-radius: 12px;
+  background-color: #6d5ed3;
+}
+
+.Transaction-New-Expense {
+  margin: 2px 0 2px 9px;
+  font-family: Poppins;
+  font-size: 14px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #fff;
+}
+
+.TNE-DropDown {
+  margin-bottom: 4px;
+  object-fit: contain;
+}
+
+.Transaction-New-Expense-DropDown-Rectangle {
+  width: 48px;
+  height: 48px;
+  margin: 36px 26px 6px -21px;
+  padding: 12px;
+  border-radius: 12px;
+  background-color: #6d5ed3;
+}
+
+.TNEBE-DropDown {
+  margin-left: 8px;
+  margin-bottom: 4px;
+  object-fit: contain;
+}
+
+.Transaction-Bulk-Edit-Rectangle {
+  width: 122px;
+  height: 48px;
+  margin: 36px 0px 6px -6px;
+  padding: 10px 8px 9px 16px;
+  border-radius: 12px;
+  border: solid 1px #7d7e82;
+  background-color: #fff;
+}
+
+.Transaction-Bulk-Edit {
+  margin: 2px 4px 2px 0;
+  font-family: Poppins;
+  font-size: 14px;
+  cursor: pointer;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #1a1a1a;
+}
+
+.Transaction-Filter {
+  margin: 42px 8px 6px 145px;
+  font-family: Poppins;
+  font-size: 16px;
+  cursor: pointer;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #1a1a1a;
+}
+
+.Transaction-StraightLinePartition-Rectangle {
+  width: 1px;
+  height: 30px;
+  margin: 40px 0 0 0px;
+  border-right: 2px solid #c2c7da;
+}
+
+.Transaction-Sort {
+  margin: 42px 3px 6px 12px;
+  font-family: Poppins;
+  display: inline-block;
+  font-size: 16px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #1a1a1a;
+}
+
+.Transaction-New-Expense-Dropdown {
+  margin: 42px 0 0 0;
+  cursor: pointer;
+  object-fit: contain;
+}
+
+.Transaction-Oval {
+  width: 40px;
+  height: 40px;
+  margin: 36px 6px 6px 21px;
+  cursor: pointer;
+  display: inline-block;
+  padding: 8px;
+  border-radius: 50%;
+  background-color: #6d5ed3;
+}
+
+.Transaction-Image-downloader {
+  width: 24px;
+  height: 24px;
+  object-fit: contain;
+}
+
+.Transaction-Graph-Rectangle {
+  margin: 30px 0px 24px;
+  padding: 15px 15px 15px 30px;
+  border-radius: 12px;
+  box-shadow: 0 8px 12px 0 rgba(238, 241, 245, 0.89);
+  background-color: #fff;
+}
+
+.Transaction-Profit-before-taxes {
+  margin: 6px 1px 6px 0px;
+  font-family: Poppins;
+  font-size: 16px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #1a1a1a;
+}
+
+.Transaction-Graph-Filter-Rectangle {
+  width: 131px;
+  margin: 6px 0px 0px 44px;
+  padding: 1px 0px 1px 11px;
+  border-radius: 8px;
+  background-color: #f2ecfb;
+}
+
+.Transaction-Graph-Selector {
+  margin: 1px 2px 1px 0;
+  font-family: Poppins;
+  font-size: 14px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #6d5ed3;
+}
+
+.Transaction-Graph-Arrow-Down {
+  margin: -3px 0 0px 2px;
+  object-fit: contain;
+}
+
+.Transaction-Rupees-Symbol {
+  width: 15px;
+  height: 24px;
+  margin: 14px 8px 30px 3px;
+  object-fit: contain;
+}
+
+.Transaction-Amount {
+  margin: 0px 0 0 0;
+  font-family: Poppins;
+  font-size: 30px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #1a1a1a;
+}
+
+.Transaction-Path-5 {
+  margin: 2.5px 0px 11.5px -14px;
+  opacity: 0.2;
+  border: solid 1px #979797;
+}
+
+.Transaction-Green-Arrow {
+  margin: 0px 0px 4px 0px;
+  object-fit: contain;
+  background-color: #fff;
+}
+
+.Transaction-Graph-Income {
+  margin: 0 0 0 8px;
+  font-family: Poppins;
+  font-size: 14px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #7fb97a;
+}
+
+.Transaction-Red-Arrow {
+  margin: 3px 4px 4px 0px;
+  object-fit: contain;
+}
+
+.Transaction-Graph-Expenses {
+  margin: 0 0 0 6px;
+  font-family: Poppins;
+  font-size: 14px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #f46237;
+}
+
+.Transaction-Graph-col-7 {
+  padding: 133px 576px 6px 0px;
+}
+
+.Transaction-Graph-Chart-Rectangle {
+  margin: 0 -7px 0 0;
+  padding: 150px 20px 8px 21px;
+  border: solid 1px #eaeaea;
+  background-color: #fff;
+}
+
+.Transaction-Graph-Month-Name {
+  font-family: Poppins;
+  font-size: 14px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #7d7e82;
+}
+
+.Transaction-Details-Rectangle {
+  height: 56px !important;
+  margin: 6px 0px 0px;
+  padding-bottom: 2rem !important;
+  border-radius: 12px !important;
+  background-color: #f6f7fb !important;
+}
+
+.Transaction-Table-Text {
+  padding-bottom: 17px !important;
+  padding-left: 30px !important;
+  font-family: Poppins;
+  font-size: 14px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #7d7e82;
+}
+
+.Transaction-Detail-Rectangle {
+  height: 83px;
+  margin: 0px 0px 2px;
+  padding: 21px 20px 25px 30px;
+  box-shadow: 0 8px 12px 0 rgba(238, 241, 245, 0.89);
+  border-bottom: 1px solid #c2c7da;
+  background-color: #fff;
+}
+
+.Transaction_Green_Arrow {
+  margin: 1px 6px 4px 0px;
+}
+
+.Transaction_Descriptions {
+  padding-top: 30px !important;
+  /* padding-right: 3.3rem !important; */
+  padding-left: 30px !important;
+  margin: 0 0 0 0;
+  font-family: Poppins;
+  font-size: 14px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #1a1a1a;
+}
+
+.Transaction_RupeesSymbol {
+  margin: 3px 8px 3px 6px;
+  object-fit: contain;
+}
+
+.Transaction-File-Attachment {
+  margin: 0 0px;
+  object-fit: contain;
+}
+
+.Transaction-copy {
+  margin: 0 0 0 0px;
+  object-fit: contain;
+}
+
+.Transaction-edit {
+  margin: 0 0px 0 0px;
+  object-fit: contain;
+}
+
+.Transaction-delete {
+  margin: 0 0px 0px 0px;
+  object-fit: contain;
+}
+
+.Transaction-More {
+  margin: 2px 0px 2px 0px;
+  object-fit: contain;
+}

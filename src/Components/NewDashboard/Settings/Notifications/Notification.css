@@ -1,0 +1,130 @@
+.Setting-Notifications-Rectangle {
+  width: 100%;
+  height: auto;
+  margin: -1px 0px 0px 0;
+  cursor: pointer;
+  padding: 26px 45px 22px 45px;
+  border-radius: 8px;
+  border: 1px solid #ebeaed;
+  background-color: #fff;
+}
+
+.Setting-Notifications-RectangleOne {
+  width: 100%;
+  height: auto;
+  margin: -1px 0px 0px 0;
+  cursor: pointer;
+  padding: 23px 25px 18px 25px;
+  border-radius: 8px;
+  background-color: #fff;
+}
+
+.Setting-Notifications-Email-Margin {
+  padding-left: 36px;
+}
+
+.Setting-Notifications-TTN-Rectangle {
+  width: 100%;
+  height: auto;
+  padding: 23px 15px 18px 15px;
+  background-color: #fff;
+}
+
+.Setting-Notifications-TTN-Selected {
+  font-family: Poppins;
+  font-size: 14px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  color: #fff;
+  padding: 14px 19px 13px 20px;
+  border-radius: 12px;
+  background-color: #6d5ed3;
+}
+
+.Setting-Notifications-TTN-Not-Selected {
+  font-family: Poppins;
+  font-size: 14px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  color: #7d5e82;
+  padding: 14px 19px 13px 20px;
+  border-radius: 12px;
+  background-color: #fff;
+}
+
+.Setting-Notifications-TTN-Descriptions-Rectangle {
+  width: 100%;
+  height: auto;
+  margin: -1px 0px 0px 0;
+  padding: 15px 20px;
+  border-radius: 8px;
+  border: 2px solid #d4d7e0;
+  background-color: #fff;
+}
+
+.Setting-Notifications-TTN-Descriptions-bg-Rectangle {
+  width: 100%;
+  height: auto;
+  padding: 28px 199px 27px 24px;
+  border-radius: 8px;
+  background-color: #efeef2;
+}
+
+.Setting-TTN-input-Rectangle {
+  width: 100%;
+  margin: 6px 0 9px;
+  padding: 16px 21px 16px 20px;
+  border-radius: 12px;
+  box-shadow: none !important;
+  border: solid 1px #7d849e !important;
+  background-color: #fff;
+}
+
+.Setting-TTN-Time-input-Rectangle {
+  width: 100%;
+  margin: 6px 0 9px;
+  padding: 16px 21px 16px 20px;
+  border-radius: 12px;
+  box-shadow: none !important;
+  border: solid 1px #7d849e !important;
+  background-color: #fff;
+  display: inline-flex;
+}
+
+.Setting-Notification-Success-Rectangle {
+  width: 100%;
+  padding: 18px 20px 17px 20px;
+  font-family: Poppins;
+  font-size: 14px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  cursor: pointer;
+  color: #fff;
+  border-radius: 12px;
+  background-color: #6d5ed3;
+}
+
+.Setting-TTN-Time-input-RectangleOne {
+  width: 70%;
+  background-color: #fff;
+  display: inline-flex;
+}
+
+@media (min-width: 576px) {
+  .TTN-modal-dialog {
+    max-width: 100% !important;
+    margin: 0px !important;
+    min-height: 150%;
+  }
+}

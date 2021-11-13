@@ -1,0 +1,134 @@
+.descriptionInvoice {
+  font-size: 18px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  color: #767676;
+}
+
+.fees {
+  font-size: 18px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  color: #767676;
+}
+
+.feeType {
+  font-size: 18px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  color: #767676;
+  border: none;
+  width: 35%;
+  cursor: pointer;
+}
+
+.totalFee {
+  font-size: 18px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  color: #fa6e31;
+}
+
+.removeRow {
+  font-size: 18px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  color: #4e4e4e;
+  cursor: pointer;
+  align-items: center;
+}
+
+.removeRow:hover {
+  color: #fa6e31;
+}
+
+.trashIcon {
+  margin: 0 10px;
+  font-size: 25px;
+}
+
+.previousClient {
+  font-size: 18px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.22;
+  letter-spacing: normal;
+  text-align: left;
+  color: #4c4c4c;
+}
+
+.newClientinvoice {
+  background-color: #e6e6e6;
+  margin: 10px 15px 0 0 !important;
+  cursor: pointer;
+}
+
+.checkNewClient {
+  font-size: 24px;
+}
+
+.detailClient {
+  width: 70%;
+  line-height: normal;
+}
+
+.selectedClientinvoice {
+  display: inline-table;
+  width: 20%;
+}
+
+.selectClientOptionsInvoice {
+  font-size: 18px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  color: #767676;
+  width: -webkit-fill-available;
+  border: none;
+  cursor: pointer;
+}
+
+.addNewOrOld {
+  margin: 75px 0;
+}
+
+select:disabled {
+  opacity: 0.5 !important;
+}
+
+input[type="radio"]:checked:before {
+  content: "";
+  display: block;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  width: 13px;
+  height: 13px;
+  border-radius: 50%;
+  background: white;
+  box-shadow: inset 0px 0px 0px 4px #fa6e31;
+}

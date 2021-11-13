@@ -1,0 +1,292 @@
+.modal_width_create {
+    max-width: 100%;
+    margin: 0;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    min-height: 100vh;
+    display: flex;
+}
+
+@media (min-width: 576px) {
+    .modal-dialog-custom {
+        max-width: 100% !important;
+        margin: 0px !important;
+    }
+}
+
+.span_head_txt_prp {
+
+    font-family: Poppins;
+    font-size: 25px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #1a1a1a;
+}
+
+.fst_box {
+    width: 650px;
+
+    padding: 24px;
+    border-radius: 12px;
+    border: solid 1px #b2b6c5;
+    background-color: #fff;
+}
+
+.p_frm_lbl {
+    font-family: Poppins;
+    font-size: 14px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #1a1a1a;
+}
+
+.p_frm_inpt {
+    /* padding: 16px !important; */
+    min-height: 46px;
+    border-radius: 8px !important;
+    border: solid 1px #7d849e !important;
+    background-color: #fff !important;
+    font-family: Poppins;
+    font-size: 14px !important;
+    font-weight: normal !important;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal !important;
+    letter-spacing: normal;
+    color: #1a1a1a !important;
+
+}
+
+.accordian_fst_box {
+    padding: 0px !important;
+}
+
+.aac_item {
+    background-color: #ffffff !important;
+    border: none !important;
+}
+
+
+.btn_aa:not(.collapsed) {
+    color: rgb(15, 1, 1) !important;
+    background-color: #ffffff !important;
+    box-shadow: none !important;
+}
+
+.btn_aa:focus {
+    box-shadow: none !important;
+}
+
+.service_txt {
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #1a1a1a;
+}
+
+.service_txt_sub {
+    font-family: Poppins;
+    font-size: 14px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #7d7e82;
+}
+
+.submit_btn {
+
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+    border-radius: 12px;
+    background-color: #6d5ed3;
+    font-family: Poppins;
+    font-size: 14px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #fff;
+
+}
+
+.mrgin-left {
+    margin-left: 0.9rem;
+}
+
+.in_width {
+    width: 799px !important;
+}
+
+.terms_txt {
+    font-family: Poppins;
+    font-size: 20px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #1a1a1a
+}
+
+.box_w_s {
+
+
+
+    padding: 30px 24px;
+    border-radius: 12px;
+    box-shadow: 0 8px 12px 0 rgba(238, 241, 245, 0.89);
+    background-color: #fff;
+
+}
+
+.trems_txt_f {
+    font-family: Poppins;
+    font-size: 20px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #6d5ed3;
+}
+
+.editbtn_terms {
+    width: 78px;
+    height: 32px;
+    margin: 1px 0 24px 58px;
+    padding: 6px 12px;
+    border-radius: 8px;
+    background-color: #f2ecfb;
+}
+
+.divider_horzontal {
+    border: 10px solid green;
+    border-radius: 5px;
+}
+
+.bling_sechdule {
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #1a1a1a;
+}
+
+.billing_sechdule_sub {
+    font-family: Poppins;
+    font-size: 14px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #7d7e82;
+}
+
+.edit_txt {
+    font-family: Poppins;
+    font-size: 14px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #6d5ed3;
+}
+
+.grey_box {
+    width: 200px;
+
+    padding: 10px;
+    border-radius: 8px;
+    background-color: #f6f7fb;
+}
+
+.start_date_txt_trms {
+    font-family: Poppins;
+    font-size: 14px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #1a1a1a;
+
+}
+
+.end_date_txt_trms {
+    font-family: Poppins;
+    font-size: 14px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #1a1a1a;
+}
+
+.project_ser_txt_trn {
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #1a1a1a;
+}
+
+.mobile-App {
+
+    font-family: Poppins;
+    font-size: 14px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #1a1a1a;
+}
+
+.add-service {
+
+    font-family: Poppins;
+    font-size: 14px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #1a1a1a;
+}
+
+
+.add-service_value {
+    font-family: Poppins;
+    font-size: 20px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #6d5ed3;
+}

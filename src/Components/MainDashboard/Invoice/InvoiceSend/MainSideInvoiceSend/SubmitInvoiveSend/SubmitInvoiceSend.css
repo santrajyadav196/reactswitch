@@ -1,0 +1,30 @@
+.uploadAttachment {
+  font-size: 18px;
+  font-weight: normal !important;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: initial;
+  letter-spacing: normal;
+  text-align: left;
+  color: #4c4c4c;
+  display: flex;
+}
+
+.attachFile {
+  display: flex;
+}
+
+.attachFile :hover {
+  color: #fa6e31;
+  cursor: pointer;
+}
+
+label {
+  font-weight: normal !important;
+}
+
+#upload {
+  opacity: 0;
+  position: absolute;
+  z-index: -1;
+}

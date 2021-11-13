@@ -1,0 +1,362 @@
+.membership {
+  margin-bottom: 80px;
+  display: table;
+}
+
+.costing-membership {
+  float: left;
+  width: 35%;
+  padding-top: 90px;
+}
+
+.headerAlign {
+  font-size: 38px !important;
+  text-align: left !important;
+}
+
+.tilesFeatures {
+  justify-content: flex-end;
+  margin-top: 15px;
+  float: left;
+  flex-wrap: wrap;
+  display: flex;
+  width: 65%;
+}
+
+.container-btn {
+  position: relative;
+  margin: 20px;
+}
+
+.membership-button {
+  width: 188px;
+  margin-top: 37px;
+  display: flex;
+  height: 57px;
+  margin-left: 20px;
+}
+
+.discount-yearly {
+  position: absolute;
+  left: 324px;
+  color: white;
+  text-align: center;
+  font-weight: 700;
+  margin: 8px;
+  width: 52px;
+  height: 15px;
+  border-radius: 11.5px;
+  background-color: #39b54a;
+}
+
+.Pricing-switch {
+  background: #fff;
+  border-radius: 12px;
+  font-family: Dosis;
+  -webkit-box-shadow: 0px 24px 32px rgba(103, 142, 178, 0.12);
+  box-shadow: 0px 24px 32px rgba(103, 142, 178, 0.12);
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  margin-bottom: 40px;
+  padding: 12px;
+  width: 100%;
+  border: none;
+  outline: none;
+  z-index: 9;
+}
+
+*:focus {
+  outline: 0 !important;
+}
+
+.Pricing-switch span.is-active {
+  background-color: #324168;
+  color: #fff;
+}
+
+.Pricing-switch span {
+  border-radius: 6px;
+  color: #162637;
+  font-family: Dosis;
+  -webkit-box-flex: 1;
+  -ms-flex: 1;
+  flex: 1;
+  font-weight: 700;
+  line-height: 22px;
+  padding: 16px 0;
+  -webkit-transition: ease-in-out 200ms all;
+  transition: ease-in-out 200ms all;
+}
+
+.Pricing-switch-monthly {
+  margin-right: 12px;
+}
+
+.monthlySub {
+  width: 315px;
+  height: 480px;
+  border-radius: 10px;
+  margin-top: 57px;
+  position: relative;
+  box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.08);
+  background-color: #ffffff;
+}
+
+.Rectangle-11-copy-2 {
+  width: 315px;
+  height: 208px;
+}
+
+.monthlyFree {
+  width: 63px;
+  height: 23px;
+  font-size: 30px;
+  font-family: Dosis;
+  text-align: left;
+  color: #ffffff;
+  position: absolute;
+  top: 10%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.monthlyFee {
+  height: 29px;
+  font-size: 25px;
+  text-align: left;
+  font-family: Dosis;
+  color: #ffffff;
+  position: absolute;
+  top: 20%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.monthlyPlan {
+  height: auto;
+  margin: 48px;
+}
+
+.monthlyPlan span {
+  color: #1e2127;
+  font-size: initial;
+  font-weight: 500;
+  margin-left: 20px;
+}
+
+.paidAnually {
+  height: 29px;
+  font-family: Dosis;
+  font-size: 15px;
+  text-align: left;
+  color: #ffffff;
+  position: absolute;
+  top: 27%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.footerPlan {
+  width: 315px;
+  border-radius: 10px;
+  padding-top: 20px;
+  position: absolute;
+}
+
+.startNowDiv {
+  width: 188px;
+  margin-top: 97px;
+  height: 57px;
+  text-align: center;
+  margin-left: 70px;
+}
+
+.startNow-Btn {
+  font-size: 17px;
+  font-family: Dosis;
+  border-radius: 5px;
+  border: solid 1px #324168;
+  background-color: transparent;
+  color: #324168;
+  position: absolute;
+  top: 90%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  padding: 12px 28px;
+  cursor: pointer;
+}
+
+.startNow-Btn:hover {
+  background-color: #324168;
+  color: #ffffff;
+}
+
+.yearlySub {
+  width: 327px;
+  height: 588px;
+  margin-left: 62px;
+  border-radius: 10px;
+  position: relative;
+  box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.08);
+  background-color: #ffffff;
+}
+
+.yearlyPlan {
+  height: auto;
+  margin: 68px 27px;
+}
+
+.yearlyPlan span {
+  color: #162637;
+  font-size: initial;
+  font-weight: 500;
+  margin-left: 20px;
+}
+
+.footerPlanYearly {
+  width: 327px;
+  border-radius: 10px;
+  padding-top: 61px;
+  position: absolute;
+}
+
+.Pricing-switch-annually div {
+  color: #162637;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 19px;
+  margin-top: 3px;
+  -webkit-transition: ease-in-out 200ms color;
+  transition: ease-in-out 200ms color;
+}
+
+@media (min-width: 950px) {
+  .Pricing-switch span {
+    font-size: 20px;
+    line-height: 24px;
+  }
+}
+
+@media (min-width: 950px) {
+  .Pricing-switch-monthly {
+    margin-right: 16px;
+  }
+}
+
+@media (min-width: 800px) {
+  .membership {
+    margin-bottom: 120px;
+  }
+}
+
+@media (min-width: 950px) {
+  .Pricing-switch {
+    padding: 16px;
+    margin-top: 35px;
+    max-width: 452px;
+  }
+}
+
+@media (min-width: 950px) {
+  .Pricing-switch-annually {
+    padding: 7px 0 !important;
+  }
+}
+
+@media (min-width: 950px) {
+  .Pricing-switch-annually.is-active div {
+    color: rgba(255, 255, 255, 0.75);
+  }
+}
+
+@media (max-width: 1240px) {
+  .costing-membership {
+    width: 100%;
+  }
+  .paraDesc {
+    text-align: center;
+  }
+  .discount-yearly {
+    left: 371px;
+  }
+  .Pricing-switch {
+    margin: 35px auto;
+  }
+  .headerAlign {
+    text-align: center !important;
+  }
+  .Pricing-switch span {
+    font-size: 20px;
+    line-height: 24px;
+  }
+  .Pricing-switch-annually {
+    padding: 7px 0 !important;
+  }
+  .Pricing-switch-annually.is-active div {
+    color: rgba(255, 255, 255, 0.75);
+  }
+  .tilesFeatures {
+    width: -webkit-fill-available;
+    justify-content: center;
+    margin: auto !important;
+  }
+  .monthlySub {
+    margin-top: unset;
+  }
+}
+
+@media (max-width: 799px) {
+  .tilesFeatures {
+    margin: 0 40px 0 40px !important;
+  }
+}
+
+@media (max-width: 790px) {
+  .tilesFeatures {
+    margin: 0 20px !important;
+  }
+  .monthlySub {
+    width: 90%;
+    height: 463px;
+    margin-bottom: 30px;
+  }
+  .Rectangle-11-copy-2 {
+    width: 100%;
+  }
+  .monthlyFee {
+    left: 50%;
+  }
+  .monthlyFree {
+    left: 50%;
+  }
+  .footerPlan {
+    width: 100%;
+    height: fit-content;
+  }
+  .startNow-Btn {
+    top: 85%;
+  }
+  .yearlySub {
+    width: 90%;
+    margin-left: unset !important;
+    margin-bottom: 40px;
+  }
+  .footerPlanYearly {
+    width: 100%;
+    height: 148px;
+  }
+}
+
+@media (max-width: 410px) {
+  .membership {
+    margin-top: 180px;
+  }
+  .footerPlanYearly {
+    display: none;
+  }
+  .footerPlan {
+    display: none;
+  }
+}

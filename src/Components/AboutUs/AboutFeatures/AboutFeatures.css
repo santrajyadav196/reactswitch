@@ -1,0 +1,43 @@
+.about-features {
+  margin-top: 100px;
+  background-color: #f3f3f7;
+}
+
+.about-feature-tile {
+  margin: 50px 0px;
+  border-radius: 10px;
+  box-shadow: 0.4px 7px 16px 0 rgba(0, 0, 0, 0.04);
+  background-color: #ffffff;
+}
+
+.fa-icon-p {
+  margin: 25px;
+}
+
+.about-feature-head {
+  font-size: 30px;
+  font-weight: 500;
+  line-height: 1;
+  color: #243d4f;
+}
+
+.about-feature-para {
+  font-size: 16px;
+  font-weight: 500;
+  padding: 30px 20px;
+  line-height: 1.67;
+  text-align: center;
+  color: #243d4f;
+}
+
+@media (max-width: 992px) {
+  .about-feature-tile {
+    margin: 25px 0;
+  }
+}
+
+@media (max-width: 768px) {
+  .about-feature-tile {
+    margin: 20px 0;
+  }
+}

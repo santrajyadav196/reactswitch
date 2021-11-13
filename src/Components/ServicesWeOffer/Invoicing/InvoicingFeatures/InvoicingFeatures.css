@@ -1,0 +1,39 @@
+.invoicing-features {
+  margin: 80px 0;
+}
+
+.services-feature-title {
+  font-size: 48px;
+  font-weight: bold;
+  color: #243d4f;
+  margin-bottom: 60px;
+}
+
+.services-feature-list {
+  margin-bottom: 25px;
+}
+
+feature-img {
+  height: auto;
+  padding: 35px 0px;
+}
+
+.services-feature-head {
+  font-size: 24px;
+  font-weight: 500;
+  text-align: left;
+  color: #243d4f;
+}
+
+.services-feature-para {
+  font-size: 18px;
+  line-height: 1.33;
+  text-align: left;
+  color: #111111;
+}
+
+@media (max-width: 360px) {
+  .feature-img {
+    width: inherit;
+  }
+}

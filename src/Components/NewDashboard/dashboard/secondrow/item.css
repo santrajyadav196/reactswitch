@@ -1,0 +1,53 @@
+.reactanglebox {
+
+        width: 17rem;
+        height: 12rem;
+        margin: 0.6rem;
+        border-radius: 12px;
+        box-shadow: 0 8px 12px 0 rgba(238, 241, 245, 0.89);
+        background-color: #fff;
+
+}
+
+.img_profile {
+        width: 30px;
+        height: 30px;
+
+        object-fit: contain;
+}
+
+
+
+.cross_btn-i {
+        width: 16px;
+        height: 16px;
+        margin: 0 0 30px 18px;
+        object-fit: contain;
+}
+
+.header_item_box_db {
+        font-family: Poppins;
+        font-size: 14px;
+        font-weight: 500;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: normal;
+        letter-spacing: normal;
+        color: #1a1a1a;
+
+}
+
+.Set-up-your-business {
+        font-family: Poppins;
+        font-size: 14px;
+        font-weight: normal;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: normal;
+        letter-spacing: normal;
+        color: #7d7e82;
+}
+
+.proicon {
+        height: 2rem;
+}

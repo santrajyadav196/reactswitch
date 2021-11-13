@@ -1,0 +1,444 @@
+.Whole-Rectangle {
+  width: 1233px;
+  height: auto;
+  /* margin: 45px 65px 0 60px; */
+  padding: 30px 0px 30px 0px;
+  border-radius: 12px;
+  box-shadow: 0 8px 12px 0 rgba(17, 17, 17, 0.2);
+  background-color: #fff;
+}
+
+/* for left box of UI: */
+
+.LeftSide-Rectangle {
+  width: 576px !important;
+  height: 826px;
+  margin: 0 0 0 15px;
+  text-align: center;
+  padding: 301px 0px 300px 0px;
+  background-color: #dee0eb;
+}
+
+/* for image receipt */
+
+.Img-receipt {
+  width: 83px;
+  height: 100px;
+  margin: 12px;
+  object-fit: contain;
+}
+
+/* for text of attach a receipt */
+
+.Attach-a-receipt {
+  margin: 35px 85px 6px 90px;
+  font-family: Poppins;
+  font-size: 20px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: center;
+  color: #1a1a1a;
+}
+
+/* for lick to upload */
+
+.Click-to-upload {
+  margin: 6px 0 0 0;
+  font-family: Poppins;
+  font-size: 18px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: center;
+  color: #7d7e82;
+}
+
+/* Right side of box */
+
+/* for new expense text */
+
+.New-Expense {
+  margin: 12px 6px 6px 2px;
+  font-family: Poppins;
+  font-size: 20px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #1a1a1a;
+}
+
+/* for cut mark which is align with new expense text */
+
+.Shape {
+  margin: 12px 0 6px 413px;
+  cursor: pointer;
+  object-fit: contain;
+  vertical-align: top;
+}
+
+/* for label of Assign-To */
+
+.Form-Text {
+  margin: 24px 0 6px 2px;
+  font-family: Poppins;
+  font-size: 14px;
+  font-weight: 500 !important;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #1a1a1a;
+}
+
+/* for input of Assign-To */
+
+.Form-Rectangle {
+  width: 574px;
+  height: 56px;
+  margin: 6px 2px 3px 2px;
+  padding: 7px 20px 7px 18px;
+  border-radius: 12px;
+  border: solid 1px #7d849e;
+  background-color: #fff;
+}
+
+.AutoComplete-Chips-Rectangle {
+  margin: -53px 10px 36px 12px;
+  padding: 8px 12px 10px 12px;
+  border-radius: 8px;
+  background-color: #f2ecfb;
+}
+
+.Form-Text-Color {
+  position: inherit;
+  margin: 0px 0px 12px 0;
+  font-family: Poppins;
+  font-size: 14px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #6d5ed3;
+}
+
+img.close-circle-fill-2 {
+  margin: 0 0 0 9px;
+  object-fit: contain;
+}
+
+/* Image of radio buttun for Tax-deducitble */
+
+.Radioactive-Button {
+  margin: 6px 12px 6px 2px;
+  object-fit: contain;
+}
+
+/* for label of radio button for tax deducitble */
+
+.Tax-deducitble {
+  color: #6d5ed3;
+}
+
+/* image of radio button for billable to client */
+
+img.radio-button-line-2 {
+  margin: 6px 12px 6px 80px;
+  object-fit: contain;
+}
+
+/* for input of total */
+
+.FormTwo-Rectangle {
+  width: 268px !important;
+  height: 56px;
+  margin: 12px 0 0 0;
+  padding: 8px 8px 8px 14px;
+  border-radius: 12px;
+  border: solid 1px #7d849e;
+  background-color: #fff;
+}
+
+/* for drop down of currency */
+
+.INR-Rectangle {
+  width: 83px;
+  height: 40px;
+  margin: -48px 0px 0 184px;
+  padding: 8px 8px 8px 12px;
+  border-radius: 8px;
+  background-color: #f2ecfb;
+}
+
+.Total-Arrow-down-Key {
+  margin: 0 0 0 12px;
+  object-fit: contain;
+}
+
+/* question mark at end of the Tax-Category */
+
+img.question-line-1 {
+  margin: 4px 0px 6px 8px;
+  object-fit: contain;
+}
+
+/* for % of incude taxes */
+
+.Include-taxes-Rectangle {
+  width: 157px;
+  height: 40px;
+  cursor: pointer;
+  margin: 12px 8px 200px 2px;
+  padding: 10px 16px;
+  border-radius: 20px;
+  background-color: #f6f7fb;
+}
+
+img.percent-line {
+  margin: 0 6px 0 0;
+  object-fit: contain;
+}
+
+.Include-Taxes {
+  margin: 0 0 0 3px;
+  font-family: Poppins;
+  font-size: 14px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #7d7e82;
+}
+
+.Tax-Included-Closed {
+  margin: 0 0 0 458px;
+  /* cursor: pointer; */
+}
+
+.Div-Margin {
+  margin: -9px 0 12px 2px !important;
+}
+
+.Tax-Included-Rectangle {
+  width: 140px;
+  height: 56px;
+  display: flex;
+  margin: 12px 0 0 0;
+  padding: 12px 24px 0 0;
+  border-radius: 12px;
+  border: solid 1px #f0eefa;
+  background-color: #fff;
+}
+
+.Percentage-Rectangle {
+  width: 71px;
+  height: 56px;
+  margin: -14px 22px 0 0;
+  padding: 10px 27px 14px 28px;
+  border-radius: 12px;
+  background-color: #f2ecfb;
+}
+
+.Percentage-Color {
+  margin: 12px 0 0 0;
+  font-family: Poppins;
+  font-size: 20px;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #6d5ed3;
+}
+
+.RS-Color {
+  margin: 2px 12px 8px 0;
+  font-family: Poppins;
+  font-size: 20px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #6d5ed3;
+}
+
+.Tax-Label-Rectangle {
+  width: 193px;
+  height: 56px;
+  margin: 12px 6px 0 9px;
+  padding: 18px 6px 16px 12px;
+  border-radius: 12px;
+  border: solid 1px #7d849e;
+  background-color: #fff;
+}
+
+.Tax-Rate-Rectangle {
+  width: 193px;
+  height: 56px;
+  margin: 12px 2px 0 -30px;
+  padding: 18px 6px 16px 12px;
+  border-radius: 12px;
+  border: solid 1px #7d849e;
+  background-color: #fff;
+}
+
+/* for make repeat  */
+
+.Repeat-Rectangle {
+  width: 175px;
+  height: 40px;
+  cursor: pointer;
+  margin: 12px 4px 12px 4px;
+  padding: 10px 16px;
+  border-radius: 20px;
+  background-color: #f6f7fb;
+}
+
+img.repeat-line {
+  margin: 0 6px 0 0;
+  object-fit: contain;
+}
+
+.Make-Repeating {
+  margin: 0 0 0 3px;
+  font-family: Poppins;
+  font-size: 14px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #7d7e82;
+}
+
+.Repeating {
+  margin: 12px 30px 0px 0px;
+  font-family: Poppins;
+  font-size: 14px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #1a1a1a;
+}
+
+.Repeating-Rectangle {
+  width: 574px;
+  height: 56px;
+  margin: 12px 30px 6px 0px;
+  padding: 16px;
+  border-radius: 12px;
+  border: solid 1px #7d849e;
+  background-color: #fff;
+}
+
+/* for add Note */
+
+.Add-Note-Rectangle {
+  margin: 12px 8px 12px 8px;
+  padding: 10px 16px;
+  cursor: pointer;
+  border-radius: 20px;
+  background-color: #f6f7fb;
+}
+
+img.edit-box-line-1 {
+  margin: 0 6px 0 0;
+  object-fit: contain;
+}
+
+.Add-Note {
+  margin: 0 0 0 3px;
+  font-family: Poppins;
+  font-size: 14px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #7d7e82;
+}
+
+.Add-NoteOne {
+  margin: 0 37px 6px 0px;
+  font-family: Poppins;
+  font-size: 14px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #1a1a1a;
+}
+
+.Add-NoteOne-Rectangle {
+  width: 574px;
+  height: 56px;
+  margin: 6px 0 12px 0px;
+  padding: 18px 16px 18px 16px;
+  border-radius: 12px;
+  border: solid 1px #7d849e;
+  background-color: #fff;
+}
+
+/* for canceal button */
+
+.Cancel-Rectangle {
+  width: 268px;
+  height: 56px;
+  padding: 18px 112px;
+  border-radius: 12px;
+  border: solid 1px #6d5ed3;
+  background-color: #fff;
+}
+
+.Cancel {
+  font-family: Poppins;
+  font-size: 14px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: center;
+  color: #6d5ed3;
+}
+
+/* for Create button */
+
+.Create-Rectangle {
+  width: 268px;
+  height: 56px;
+  padding: 18px 112px;
+  border-radius: 12px;
+  background-color: #6d5ed3;
+}
+
+.Create {
+  font-family: Poppins;
+  font-size: 14px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: center;
+  color: #fff;
+}
+
+@media (min-width: 576px) {
+  .modal-dialog-cust {
+    max-width: 1233px !important;
+    /* margin: 1.75rem auto; */
+  }
+}

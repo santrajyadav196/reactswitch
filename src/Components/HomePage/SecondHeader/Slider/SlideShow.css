@@ -1,0 +1,152 @@
+.slick-prev {
+  left: 49% !important;
+  z-index: 1;
+  margin-top: 246px;
+  height: 0px !important;
+}
+
+.slick-slider {
+  margin-top: 43px !important;
+}
+
+.slick-next {
+  right: 0% !important;
+  margin-top: 246px;
+  height: 0px !important;
+  z-index: 1;
+}
+
+.slick-prev:hover,
+.slick-prev:focus,
+.slick-next:hover,
+.slick-next:focus {
+  color: transparent !important;
+  outline: none !important;
+}
+
+.slick-prev,
+.slick-next {
+  position: absolute !important;
+}
+
+.slick-next:before,
+.slick-prev:before {
+  font-size: 20px;
+  line-height: 1;
+  opacity: 0.75;
+  color: black;
+}
+
+.slick-list {
+  margin: 76px 0 !important;
+  float: right !important;
+  width: 51% !important;
+  height: 364px !important;
+}
+
+.slick-dots {
+  width: 44% !important;
+  height: 396px !important;
+  display: flex !important;
+  flex-wrap: wrap;
+  bottom: unset !important;
+}
+
+.slick-dots li {
+  display: flex !important;
+  width: 326px !important;
+  height: 89px !important;
+}
+
+.box-image {
+  width: 65px;
+  height: 65px;
+  border-radius: 20px;
+  opacity: 0.6;
+  background-color: #61a7f2;
+}
+
+.li-fit-content:hover .box-image {
+  transition: ease-in 200ms;
+  background-color: #324168;
+}
+
+.li-fit-content:hover .box-image .img-centre {
+  color: snow;
+}
+
+.li-fit-content {
+  width: 360px !important;
+  height: 90px !important;
+  position: unset !important;
+  padding: 12px 0px 0px 12px !important;
+  cursor: pointer;
+  margin-bottom: 12px;
+  flex-wrap: wrap;
+  display: inline-table;
+}
+
+.img-centre {
+  margin: 16px;
+}
+
+.li-fit-left {
+  float: left;
+  width: 28%;
+  height: 66px;
+}
+.li-fit-right {
+  padding-top: 5px;
+  float: left;
+  width: 72%;
+  height: 66px;
+  text-align: left;
+}
+
+.main-li-heading {
+  font-size: 24px;
+  opacity: 0.4;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  color: #324168;
+}
+
+.li-description {
+  display: flex;
+  font-size: 18px;
+  opacity: 0.4;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #1e2127;
+}
+
+.slick-active .li-fit-content:hover {
+  transition: ease-in-out 200ms all;
+}
+
+.slick-active {
+  transition: ease-in-out 200ms all;
+  border-radius: 6px;
+}
+
+.slick-active .main-li-heading,
+.slick-active .li-description {
+  opacity: unset;
+}
+
+.slick-active .li-fit-content .box-image {
+  transition: ease-in 200ms;
+  background-color: #324168;
+  opacity: unset;
+}
+
+.slick-active .li-fit-content .box-image .img-centre {
+  color: snow;
+}

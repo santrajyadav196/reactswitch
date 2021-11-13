@@ -1,0 +1,199 @@
+.newexpnse {
+
+    width: 160px;
+    height: 48px;
+
+    padding: 12px 16px;
+    border-radius: 12px;
+    background-color: #6d5ed3;
+
+}
+
+.new_expnse_txn {
+    width: 190px;
+    height: 48px;
+    padding: 12px 16px;
+    border-radius: 12px;
+    background-color: #6d5ed3;
+    font-family: Poppins;
+    font-size: 14px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #fff;
+}
+
+.dropdown_txn {
+    width: 48px;
+    height: 48px;
+    margin-left: 10px;
+    color: white;
+    text-align: center !important;
+
+    padding: 12px;
+    border-radius: 12px;
+    background-color: #6d5ed3;
+}
+
+.bulk_edit_txn {
+    width: 122px;
+    height: 48px;
+    margin-left: 10px;
+    padding: 12px 12px 12px 16px;
+    border-radius: 12px;
+    border: solid 1px #7d7e82;
+    background-color: #fff;
+    font-family: Poppins;
+    font-size: 14px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #1a1a1a;
+}
+
+.download_txn {
+    width: 40px;
+    height: 40px;
+    color: white;
+    border-radius: 30px;
+
+    background-color: #6d5ed3;
+}
+
+.edit_pymnt_txn {
+    border-radius: 12px;
+    box-shadow: 0 8px 12px 0 rgba(17, 17, 17, 0.2);
+    background-color: #fff;
+    padding: 30px;
+
+}
+
+.subttle_txn_edt {
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #7d7e82;
+}
+
+.due_date_tsk_dlog_inputtxn {
+    height: 56px !important;
+
+    border-radius: 9px !important;
+    border: solid 1px #7d849e !important;
+    background-color: #fff !important;
+    font-family: Poppins;
+    font-size: 14px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #1a1a1a;
+}
+
+.left_dropdwn {
+    padding: 8px 8px 8px 12px;
+    border-radius: 8px;
+    background-color: #f2ecfb;
+    color: #6d5ed3;
+    position: absolute;
+    right: 0;
+    margin-right: 2rem;
+}
+
+.rModal_pos {
+    position: absolute !important;
+    right: 0;
+    margin-top: 0 !important;
+    margin-bottom: 0 !important;
+}
+
+.height_modal {
+    height: 95vh !important;
+    width: 360px !important;
+    background-color: #fff !important;
+    padding: 20px !important;
+}
+
+.left_icon_dd {
+    border: none !important;
+    background-color: #fff !important;
+    margin: 3px;
+}
+
+.recipt {
+    background-color: #f6f6fb !important;
+    height: 826px;
+}
+
+.compelte_m {
+    padding: 30px;
+}
+
+.react-tags__search {
+    background-color: red;
+}
+
+.selected_rad_in {
+    font-family: Poppins;
+    font-size: 14px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #6d5ed3;
+}
+
+.not_selected_rad_in {
+    font-family: Poppins;
+    font-size: 14px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #1a1a1a;
+}
+
+.right_checvron {
+    position: absolute;
+    margin-right: 2rem;
+    margin-top: 0.7rem;
+    right: 0px;
+}
+
+.text_cost_o {
+    margin-top: 0.7rem;
+    position: absolute;
+
+}
+
+.in_txes_chips {
+    font-family: Poppins;
+    font-size: 14px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #7d7e82;
+}
+
+.chips_in {
+    margin-left: 10px;
+    margin-right: 10px;
+    padding-left: 13px;
+    padding-right: 13px;
+    height: 40px;
+    border-radius: 20px;
+    background-color: #f6f7fb;
+}

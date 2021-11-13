@@ -1,0 +1,83 @@
+.thirdContainerRectangle {
+
+    height: 12rem;
+    margin: 30px 30px 42px 30px;
+    padding: 16px 16px 23px 24px;
+    border-radius: 12px;
+    box-shadow: 0 4px 16px 0 rgba(0, 0, 0, 0.06);
+    background-color: #fff;
+}
+
+
+
+.set-a-goal-to-track {
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #1a1a1a;
+}
+
+.i-want-invoice {
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #1a1a1a;
+}
+
+.set_btn {
+
+    padding-left: 28px;
+    padding-right: 28px;
+    padding-top: 14px;
+    padding-bottom: 14px;
+
+    border-radius: 12px;
+    background-color: #6d5ed3;
+    font-family: Poppins;
+    font-size: 14px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #fff;
+}
+
+.form_btn {
+
+
+    height: 48px;
+    padding: 14px 16px 14px 16px;
+    border-radius: 12px;
+    border: solid 1px #7d849e;
+    background-color: #fff;
+}
+
+.inpt_grp {
+    border: none;
+    background-color: white
+}
+
+.input-d {
+    width: 8rem;
+    margin-left: 2px;
+}
+
+.dollar-inds {
+    font-family: Poppins;
+    font-size: 14px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #1a1a1a;
+}

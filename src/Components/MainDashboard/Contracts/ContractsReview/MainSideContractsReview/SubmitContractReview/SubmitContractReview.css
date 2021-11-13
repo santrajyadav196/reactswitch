@@ -1,0 +1,172 @@
+.contractSetup_review {
+  padding: 22px 0 22px 0;
+  font-family: Nunito;
+  font-size: 18px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.22;
+  letter-spacing: normal;
+  text-align: left;
+  color: #ffffff;
+  background-color: #fa6e31;
+  width: 32%;
+  padding-left: 15px;
+}
+
+.contractReview_review {
+  padding: 22px 0 22px 0;
+  font-family: Nunito;
+  font-size: 18px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.22;
+  letter-spacing: normal;
+  text-align: left;
+  color: #ffffff;
+  width: 33%;
+  background-color: #fa6e31;
+  clip-path: polygon(0 0, 100% 0%, calc(100% - 32px) 100%, 0% 100%);
+}
+
+.contractSend_review {
+  padding: 22px 0 22px 0;
+  font-family: Nunito;
+  font-size: 18px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.22;
+  letter-spacing: normal;
+  text-align: left;
+  width: 34%;
+  padding-left: 15px;
+}
+
+.ContractName {
+  font-size: 18px;
+  margin-top: 50px;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.22;
+  letter-spacing: normal;
+  text-align: left;
+  color: #333333;
+  width: -webkit-fill-available;
+}
+
+.ContractReviewInfo {
+  font-size: 18px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.67;
+  letter-spacing: normal;
+  text-align: left;
+  color: #7d7d7d;
+  width: -webkit-fill-available;
+  border: none;
+}
+
+.padChange {
+  padding-left: 30px;
+}
+
+.dateReviewInfo {
+  color: #fa6e31;
+}
+
+.reviewContractF {
+  font-size: 16px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.67;
+  letter-spacing: normal;
+  text-align: left;
+  color: #7d7d7d;
+  width: -webkit-fill-available;
+}
+
+.servicesReview {
+  font-size: 18px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.67;
+  letter-spacing: normal;
+  text-align: left;
+  color: #7d7d7d;
+}
+
+.editReviewSvg :hover {
+  cursor: pointer;
+  fill: #fa6e31;
+}
+
+.footerSig {
+  font-size: 18px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.67;
+  letter-spacing: normal;
+  text-align: left;
+  color: #7d7d7d;
+  margin-top: 35px;
+}
+
+.footerDate {
+  font-size: 18px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.67;
+  letter-spacing: normal;
+  text-align: left;
+  color: #7d7d7d;
+}
+
+.reviewContractfooter {
+  font-size: 18px;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.67;
+  letter-spacing: normal;
+  text-align: left;
+  color: #333333;
+  height: 60px;
+}
+
+.backnext {
+  display: flex;
+  justify-content: space-between;
+}
+
+.movePageReview {
+  border-radius: 5px;
+  background-color: #fa6e31;
+  font-size: 18px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: center;
+  color: #ffffff;
+  width: 130px;
+  padding: 3px 0;
+  cursor: pointer;
+}
+
+.nameValueReview {
+  width: -webkit-fill-available;
+}
+
+.discardName {
+  margin-right: 40px;
+  cursor: pointer;
+}

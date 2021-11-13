@@ -1,0 +1,181 @@
+.cancelInvoiceReview {
+  border-radius: 3px;
+  border: solid 1px #000000;
+  font-size: 13px;
+  text-align: center;
+  color: #000000;
+  cursor: pointer;
+  padding: 7px 14px;
+}
+
+.floatRightBtn {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.nextInvoiceReview {
+  border-radius: 3px;
+  background-color: #fa6e31;
+  font-size: 13px;
+  text-align: center;
+  color: #ffffff;
+  cursor: pointer;
+  padding: 8px 14px;
+  margin-left: 10px;
+}
+
+.invoiceDetail {
+  font-size: 48px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 0.46;
+  letter-spacing: normal;
+  text-align: left;
+  color: #000000;
+}
+
+.totalDetail {
+  display: flex;
+  justify-content: space-between;
+  padding-bottom: inherit;
+  padding-top: inherit;
+}
+
+.serialInvoice {
+  font-size: 24px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 0.92;
+  letter-spacing: normal;
+  text-align: left;
+  color: #666666;
+}
+
+.priceInvoice {
+  font-family: Nunito;
+  font-size: 48px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 0.46;
+  letter-spacing: normal;
+  text-align: left;
+  color: #fa6e31;
+  display: initial;
+}
+
+.detailQuan {
+  margin-right: 40px;
+}
+
+.spanIssue {
+  font-size: 16px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.88;
+  letter-spacing: normal;
+  text-align: left;
+  color: #666666;
+}
+
+.spanIssueDate {
+  font-size: 16px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.88;
+  letter-spacing: normal;
+  text-align: left;
+  color: #666666;
+}
+
+.lineBottomInvoice {
+  opacity: 0.1;
+  border-bottom: 1px solid #666666;
+  width: 100%;
+}
+
+.billInvoiceData {
+  justify-content: space-between;
+}
+
+.billFrom {
+  font-size: 19px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.16;
+  letter-spacing: normal;
+  text-align: left;
+  color: #000000;
+}
+
+.billTo {
+  font-size: 19px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.16;
+  letter-spacing: normal;
+  text-align: right;
+  color: #000000;
+}
+
+.imputPlaceholders {
+  display: grid;
+}
+
+.billFromInp {
+  border-radius: 4px;
+  border: solid 1px #e0e0ef;
+  float: right;
+  height: 33px;
+  margin-bottom: 12px;
+}
+
+.billFromAddressInp {
+  border-radius: 4px;
+  border: solid 1px #e0e0ef;
+  float: right;
+  height: 52px;
+  font-size: 12px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.83;
+  letter-spacing: normal;
+}
+
+.projectInvoiceName {
+  font-size: 24px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 0.92;
+  letter-spacing: normal;
+  text-align: left;
+  color: rgba(250, 110, 49, 0.9);
+}
+
+.projectInvoiceAddress {
+  font-size: 16px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.2;
+  letter-spacing: normal;
+  text-align: left;
+  color: rgba(250, 110, 49, 0.9);
+}
+
+@media (max-width: 769px) {
+  input::placeholder {
+    text-align: left;
+  }
+  .billTo {
+    text-align: left;
+  }
+}

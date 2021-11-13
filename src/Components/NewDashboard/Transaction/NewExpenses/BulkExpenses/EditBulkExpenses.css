@@ -1,0 +1,27 @@
+.EditBulkExpenses_Rectangle {
+  width: 620px;
+  height: auto;
+  /* margin: 45px 65px 0 60px; */
+  padding: 30px 0px 30px 6px;
+  border-radius: 12px;
+  box-shadow: 0 8px 12px 0 rgba(17, 17, 17, 0.2);
+  background-color: #fff;
+}
+
+.EditBulkExpenses_ClosedBtn {
+  margin: 12px 0 6px 269px;
+  cursor: pointer;
+  object-fit: contain;
+  vertical-align: top;
+}
+
+.EditBulkExpenses_Merchant {
+  margin-top: -27px;
+}
+
+@media (min-width: 576px) {
+  .modal-dialog_EditBulkExpenses {
+    max-width: 620px !important;
+    /* margin: 1.75rem auto; */
+  }
+}

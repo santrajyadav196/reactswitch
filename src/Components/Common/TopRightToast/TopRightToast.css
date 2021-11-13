@@ -1,0 +1,22 @@
+.toast {
+  font-size: 1.5rem !important;
+  max-width: 500px !important;
+  min-width: 300px !important;
+}
+
+.topRight {
+  top: 0;
+  right: 0;
+}
+
+.infoIcon {
+  font-size: 1.75rem;
+}
+
+.toastTitle {
+  font-size: 2rem;
+}
+
+.toastTime {
+  font-size: 1rem;
+}

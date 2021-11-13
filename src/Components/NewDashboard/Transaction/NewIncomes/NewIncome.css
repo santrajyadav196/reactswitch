@@ -1,0 +1,12 @@
+.NewIncome-LeftSide-Rectangle {
+    width: 576px !important;
+    height: 765px;
+    margin: 0 0 0 15px;
+    text-align: center;
+    padding: 240px 0px 300px 0px;
+    background-color: #dee0eb;
+  }
+
+  .NewIncome-TotalDate {
+    margin-top: -27px;
+  }

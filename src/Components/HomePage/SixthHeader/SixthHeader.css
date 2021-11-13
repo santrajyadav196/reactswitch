@@ -1,0 +1,55 @@
+.feature-sixth {
+  background-color: #fafafa;
+  padding-bottom: 50px;
+  padding-top: 50px;
+}
+
+.discoverWaysImage {
+  float: left;
+  width: 40%;
+  padding-left: 65px;
+  padding-top: 100px;
+}
+
+.weProvide {
+  margin-top: 15px;
+  float: right;
+  width: 48%;
+}
+
+.img-align {
+  width: inherit;
+}
+
+.weProvideLi {
+  border-radius: 10px;
+  box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.08);
+  background-color: #ffffff;
+  list-style: none;
+  display: flex;
+  margin-bottom: 38px;
+}
+
+.head-details-provide {
+  text-align: left;
+  color: #324168;
+  font-family: Dosis;
+  font-size: 24px;
+  font-weight: 500;
+}
+
+.sub-details-provide {
+  text-align: left;
+  color: #324168;
+  font-family: Dosis;
+  max-width: 400px;
+  font-size: 16px;
+}
+
+@media (min-width: 992px) {
+  .weProvideLi:hover {
+    margin-left: 50px;
+    transition: ease-in-out 200ms all;
+    background-color: #ececec;
+  }
+}

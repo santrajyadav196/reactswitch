@@ -1,0 +1,116 @@
+.services {
+  font-family: Nunito;
+  font-size: 30px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.5;
+  letter-spacing: normal;
+  text-align: left;
+  color: #333333;
+}
+
+.servicesDesc {
+  object-fit: contain;
+  font-family: Nunito;
+  font-size: 16px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.38;
+  letter-spacing: normal;
+  text-align: left;
+  color: #333333;
+}
+
+.addNewService {
+  font-family: Nunito;
+  font-size: 18px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  color: #fa6e31;
+  cursor: pointer;
+  margin-top: 15px;
+}
+
+.billingDetails {
+  display: flex;
+  margin-top: inherit;
+}
+
+.timeStamp {
+  padding: 13px 17px;
+  border: solid 1px #ebebeb;
+  background-color: #ebebeb;
+  margin-top: 10px;
+  margin-right: 12px;
+  width: auto;
+  text-align: center;
+  font-family: Nunito;
+  font-size: 16px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.38;
+  letter-spacing: normal;
+  color: #fa6e31;
+  cursor: pointer;
+}
+
+.selectClientOptions {
+  font-size: 16px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  color: #767676;
+  width: -webkit-fill-available;
+  border: none;
+  cursor: pointer;
+}
+
+.timeStamp:hover {
+  background-color: #ffffff;
+  border: solid 1px #fa6e31;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio: 0) {
+  input[type="date"],
+  input[type="time"],
+  input[type="datetime-local"],
+  input[type="month"] {
+    line-height: 34px;
+    width: 85%;
+  }
+}
+
+@media (max-width: 599px) {
+  .timeStamp {
+    width: 50%;
+  }
+}
+
+@media (max-width: 449px) {
+  .billingDetails {
+    display: block;
+  }
+  .timeStamp {
+    width: auto;
+  }
+}
+
+@media (max-width: 1079px) {
+  .createClient {
+    display: none;
+  }
+  .discardClient {
+    padding-right: 0 !important;
+    font-size: 12px;
+  }
+}

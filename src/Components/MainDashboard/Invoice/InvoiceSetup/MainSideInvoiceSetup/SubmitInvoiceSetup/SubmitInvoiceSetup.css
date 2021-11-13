@@ -1,0 +1,62 @@
+.newProjectInvoice {
+  font-size: 18px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  color: #767676;
+  border: none;
+  width: inherit;
+}
+
+.newProjectInvoiceOpaci {
+  font-size: 18px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  color: #767676;
+  border: none;
+  opacity: 0.5;
+  width: inherit;
+}
+
+.addNewOrOldProject {
+  margin-bottom: 75px;
+}
+
+.backDisabled {
+  border-radius: 5px;
+  background-color: #e4e4e4;
+  font-size: 18px;
+  width: 130px;
+  padding: 3px 0;
+  cursor: not-allowed;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: center;
+  color: #c1c1c1;
+}
+
+.movePageReviewBack {
+  border-radius: 5px;
+  background-color: #4c4c4c;
+  font-size: 18px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: center;
+  color: rgba(255, 255, 255, 0.99);
+  width: 130px;
+  padding: 3px 0;
+  cursor: pointer;
+}

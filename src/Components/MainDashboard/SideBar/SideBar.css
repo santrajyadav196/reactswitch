@@ -1,0 +1,49 @@
+a.sideblocks.is-active div.triangle-bottomright {
+  width: 0;
+  margin-left: auto;
+  border-bottom: 30px solid #fa6e31;
+  border-left: 30px solid transparent;
+  padding-bottom: 0 !important;
+}
+
+a.sideblocks.is-active div.dashTitle {
+  color: #fa6e31 !important;
+}
+
+.dashTitle {
+  font-size: 13px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.69;
+  letter-spacing: normal;
+  text-align: center;
+  color: #4c4c4c;
+  margin-top: 10px;
+}
+
+.sidepanel {
+  border-right: 1px solid rgba(0, 0, 0, 0.15);
+}
+
+.triangle-bottomright {
+  padding-bottom: 3rem;
+}
+
+.sideBlocks {
+  border-bottom: 1px solid rgba(0, 0, 0, 0.15);
+}
+
+a.sideblocks.is-active path {
+  fill: #fa6e31 !important;
+}
+
+.sideWidth {
+  width: 10%;
+}
+
+@media (max-width: 1079px) {
+  .sideWidth {
+    display: none;
+  }
+}

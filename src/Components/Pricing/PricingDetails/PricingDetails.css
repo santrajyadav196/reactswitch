@@ -1,0 +1,114 @@
+.pricing-detail {
+  padding-bottom: 80px;
+}
+
+.pricing-costing-membership {
+  padding-top: 30px;
+}
+
+.pricing-tilesFeatures {
+  justify-content: center;
+  margin-top: 15px;
+  flex-wrap: wrap;
+  display: flex;
+}
+
+.pricing-monthlySub {
+  width: 315px;
+  height: 480px;
+  border-radius: 10px;
+  margin-top: 57px;
+  position: relative;
+  box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.08);
+  background-color: #ffffff;
+}
+
+.pricing-yearlySub {
+  width: 327px;
+  height: 588px;
+  margin-left: 62px;
+  border-radius: 10px;
+  position: relative;
+  box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.08);
+  background-color: #ffffff;
+}
+
+.Pricing-switchBtn {
+  background: #fff;
+  border-radius: 12px;
+  font-family: Dosis;
+  -webkit-box-shadow: 0px 24px 32px rgba(103, 142, 178, 0.12);
+  box-shadow: 0px 24px 32px rgba(103, 142, 178, 0.12);
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  margin-bottom: 40px;
+  padding: 12px;
+  width: 100%;
+  border: none;
+  outline: none;
+  z-index: 9;
+}
+
+.Pricing-switchBtn span.is-active {
+  background-color: #324168;
+  color: #fff;
+}
+
+.Pricing-switchBtn span {
+  border-radius: 6px;
+  color: #162637;
+  font-family: Dosis;
+  font-size: 20px;
+  -webkit-box-flex: 1;
+  -ms-flex: 1;
+  flex: 1;
+  font-weight: 700;
+  line-height: 22px;
+  padding: 16px 0;
+  -webkit-transition: ease-in-out 200ms all;
+  transition: ease-in-out 200ms all;
+}
+
+@media (min-width: 950px) {
+  .Pricing-switchBtn {
+    padding: 16px;
+    margin: 35px auto;
+    max-width: 452px;
+  }
+}
+
+@media (max-width: 1240px) {
+  .pricing-costing-membership {
+    width: 100%;
+  }
+  .pricing-monthlySub {
+    margin-top: 57px;
+  }
+  .Pricing-switchBtn {
+    margin: 35px auto;
+  }
+  .Pricing-switchBtnBtn span {
+    font-size: 20px;
+    line-height: 24px;
+  }
+}
+
+@media (max-width: 790px) {
+  .pricing-monthlySub {
+    width: 90%;
+    height: 463px;
+    margin-bottom: 30px;
+  }
+  .pricing-yearlySub {
+    width: 90%;
+    margin-left: unset !important;
+    margin-bottom: 40px;
+  }
+}
+
+@media (max-width: 990px) {
+  .pricing-yearlySub {
+    margin-left: auto;
+  }
+}

@@ -1,0 +1,33 @@
+.Toolbar {
+    width: 100%;
+    top: 0;
+    left: 0;
+    background-color: #ffffff;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    box-sizing: border-box;
+    z-index: 90;
+}
+
+.Toolbar--sticky{
+    position: fixed;
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+    margin: 0 6px;
+    box-shadow: 0 12px 32px rgba(78 153 222 / 16%);
+    padding: 16px 24px;
+}
+
+.Toolbar nav {
+    height: 100%;
+    width: -webkit-fill-available;
+}
+
+@media (max-width: 1079px) {
+    .DesktopOnly {
+        display: none;
+    }
+}

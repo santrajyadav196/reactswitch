@@ -1,0 +1,230 @@
+.app-container {
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 24px;
+  padding-right: 24px;
+  box-sizing: content-box;
+}
+
+.Header-image {
+  background-size: contain;
+  width: 100%;
+  height: auto;
+  max-width: 450px;
+  margin: 0 auto;
+  animation: bounce 3s infinite ease-in-out;
+  -webkit-animation: bounce 3s infinite ease-in-out;
+  -o-animation: bounce 3s infinite ease-in-out;
+  -ms-animation: bounce 3s infinite ease-in-out;
+  -moz-animation: bounce 3s infinite ease-in-out;
+}
+
+.Header-title {
+  color: #324168;
+  font-family: Dosis;
+  font-size: 32px;
+  font-weight: 700;
+  line-height: 42px;
+  margin-bottom: 24px;
+}
+
+.Header-copy {
+  font-size: 18px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.78;
+  letter-spacing: normal;
+  text-align: left;
+  color: #1e2127;
+}
+
+.Header-form {
+  border-radius: 12px;
+  -webkit-box-shadow: 0px 12px 32px rgba(131, 155, 179, 0.16);
+  box-shadow: 0px 12px 32px rgba(131, 155, 179, 0.16);
+  overflow: hidden;
+  margin-bottom: 24px;
+}
+
+.NoHassle {
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  font-size: 14px;
+}
+
+.noHassleFont {
+  font-size: 18px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  letter-spacing: normal;
+  text-align: left;
+  color: #7b7b7b;
+  margin-left: 5px;
+}
+
+.NoHassle span:not(:last-child) {
+  margin-right: 20px;
+}
+.NoHassle span {
+  white-space: nowrap;
+}
+
+.Header-form-input {
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  color: #162637;
+  font-family: Dosis;
+  line-height: 22px;
+}
+
+.Header-form-input,
+.Header-form-button {
+  font-size: 18px;
+  padding: 20px 32px;
+  width: 100%;
+}
+
+.Header-form-button {
+  background-color: #61a7f2;
+  color: #ffffff;
+  font-family: Dosis;
+  font-weight: 600;
+  line-height: 27px;
+  -webkit-transition: ease-in-out 200ms background-color;
+  transition: ease-in-out 200ms background-color;
+}
+
+.Header-form-button:hover {
+  background-color: #7fb4ea;
+}
+
+input {
+  border: 0;
+  outline: none;
+}
+
+button {
+  background-color: transparent;
+  border: 0;
+  cursor: pointer;
+  outline: none;
+  padding: 0;
+}
+
+button,
+input {
+  overflow: visible;
+}
+
+.zio {
+  animation: bounce 3s infinite ease-in-out;
+  -webkit-animation: bounce 3s infinite ease-in-out;
+  -o-animation: bounce 3s infinite ease-in-out;
+  -ms-animation: bounce 3s infinite ease-in-out;
+  -moz-animation: bounce 3s infinite ease-in-out;
+}
+
+@media (min-width: 800px) {
+  .Header-form-button {
+    max-width: 215px;
+  }
+}
+
+@media (min-width: 800px) {
+  .Header-form {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+  }
+}
+
+@media (min-width: 800px) {
+  .Header-form-wrapper {
+    max-width: 600px;
+    position: absolute;
+    width: 50%;
+  }
+}
+
+@media (min-width: 800px) {
+  .Header header {
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: justify;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+    margin-bottom: 120px;
+  }
+}
+
+@media (max-width: 799px) {
+  .Header header {
+    margin-bottom: 64px;
+  }
+}
+
+@media (min-width: 1200px) {
+  .app-container {
+    max-width: 1200px;
+    padding-left: 50px;
+    padding-right: 50px;
+  }
+}
+
+@media (min-width: 800px) {
+  .Header-content {
+    margin-bottom: 107px;
+    max-width: 587px;
+    width: 100%;
+  }
+}
+
+@media (min-width: 800px) {
+  .Header-title {
+    font-size: 48px;
+    line-height: 73px;
+    margin-bottom: 16px;
+  }
+}
+
+@media (min-width: 800px) {
+  .Header-copy {
+    margin-bottom: 40px;
+  }
+}
+
+@-webkit-keyframes bounce {
+  0% {
+    transform: translateY(-5px);
+  }
+  50% {
+    transform: translateY(10px);
+  }
+  100% {
+    transform: translateY(-5px);
+  }
+}
+
+@keyframes bounce {
+  0% {
+    transform: translateY(-5px);
+  }
+  50% {
+    transform: translateY(10px);
+  }
+  100% {
+    transform: translateY(-5px);
+  }
+}

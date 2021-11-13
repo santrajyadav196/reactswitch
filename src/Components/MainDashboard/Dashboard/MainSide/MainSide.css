@@ -1,0 +1,80 @@
+.LoggedinSide {
+  position: fixed;
+  left: 0;
+  height: 100vh;
+  max-width: 1326px;
+}
+
+.dashData {
+  width: auto;
+  display: flex;
+}
+
+.display-img {
+  display: inline-block;
+}
+
+.navBelowHead {
+  border-bottom: 1px solid rgba(0, 0, 0, 0.15);
+}
+
+.box-rect {
+  border-radius: 6px;
+  box-shadow: 0px 2px 6px 0 rgba(0, 0, 0, 0.15);
+  background-color: #ffffff;
+  display: flex;
+  flex-wrap: wrap;
+  flex: 0 0 21%;
+  max-width: 21%;
+  margin-bottom: 25px;
+}
+
+.DashMarg {
+  font-size: 24px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 0.92;
+  letter-spacing: normal;
+  text-align: left;
+  color: #333333;
+}
+
+.boxHead {
+  font-size: 13px;
+  line-height: 1.69;
+  margin-bottom: 0;
+  text-align: left;
+  color: #666666;
+}
+
+.numberColor {
+  font-size: 24px;
+  line-height: 0.92;
+  text-align: left;
+  color: #fa6e31;
+}
+
+@media (max-width: 1079px) {
+  .box-rect {
+    flex: 0 0 40%;
+    max-width: 40%;
+  }
+  .dashData {
+    display: block;
+  }
+}
+
+@media (max-width: 499px) {
+  .box-rect {
+    flex: 0 0 50%;
+    max-width: 50%;
+  }
+}
+
+@media (max-width: 399px) {
+  .box-rect {
+    flex: 0 0 65%;
+    max-width: 65%;
+  }
+}

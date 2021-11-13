@@ -1,0 +1,126 @@
+.addClient {
+  font-size: 30px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.4;
+  letter-spacing: normal;
+  color: #333333;
+}
+.parallelInp {
+  width: 50%;
+  margin-right: 25px;
+  align-self: baseline;
+}
+
+.discardClient {
+  font-size: 16px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  color: #767676;
+  cursor: pointer;
+  padding-right: 1.5rem;
+}
+
+.createClient {
+  border-radius: 5px;
+  background-color: #767676;
+  font-size: 16px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #ffffff;
+  text-align: center;
+  height: fit-content;
+  cursor: pointer;
+}
+
+.webAgency {
+  font-size: 16px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  color: #767676;
+}
+
+.clientNameWarning {
+  font-size: 12px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  color: #bebebe;
+}
+
+.warningClient {
+  width: inherit;
+  height: min-content;
+}
+
+.inputTxt {
+  font-size: 16px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  color: #767676;
+  width: -webkit-fill-available;
+}
+
+.lineBottom {
+  opacity: 0.1;
+  border-bottom: 1px solid #666666;
+  width: 85%;
+}
+
+.addClient-btn {
+  border-radius: 5px;
+  background-color: #fa6e31;
+  font-size: 16px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #ffffff;
+  text-align: center;
+  width: -webkit-fill-available;
+}
+
+.errorsinForm {
+  object-fit: contain;
+  border-radius: 5px;
+  border: solid 1px #f71d2e;
+  font-size: 16px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  color: #ff5959;
+}
+
+.error {
+  color: #ff5959;
+  font-size: 10px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+}

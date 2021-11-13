@@ -1,0 +1,91 @@
+@font-face {
+  font-family: "blogger-sans";
+  src: url("./blogger-sans.regular.ttf") format("truetype");
+}
+
+.mobile-view {
+  list-style-type: none;
+  padding: 0;
+  line-height: 29px;
+  margin: 10px 30px;
+}
+
+.suite-we-offer {
+  font-size: 16px;
+  font-weight: 600;
+  font-family: blogger-sans;
+  color: #324168;
+}
+
+a.Nav-link-mobile.is-active {
+  color: #61a7f2;
+}
+
+a.Nav-linkli-mobile.active {
+  color: #61a7f2;
+}
+
+.Nav-mainMenu-mobile {
+  padding-top: 12px;
+}
+
+.ul-reset-mobile {
+  list-style-type: none;
+  padding-inline-start: 10px;
+}
+
+.Nav-Submenu-mobile {
+  margin-bottom: 10px;
+}
+
+.link-mobile-t {
+  padding-top: 15px;
+  border-top: 1px #efe8e8 solid;
+}
+
+a.Nav-link-ul.is-active {
+  color: #61a7f2;
+}
+
+.Nav-link-ul {
+  font-size: 16px;
+  line-height: 2.5;
+  color: #324168;
+  font-family: blogger-sans;
+  transition: ease-in-out 200ms color;
+}
+
+.link-mobile {
+  padding-top: 15px;
+  border-top: 1px #efe8e8 solid;
+  padding-bottom: 15px;
+}
+
+.Nav-signUp-mobile {
+  border-radius: 5px;
+  background: #61a7f2;
+  color: white !important;
+  margin-bottom: 10px;
+}
+
+.Nav-webApp-link-mobile {
+  color: #ffffff !important;
+}
+
+.Nav-link-mobile {
+  font-size: 16px;
+  font-family: blogger-sans;
+  font-weight: 600;
+  color: #324168;
+}
+
+.Nav-linkli-mobile {
+  font-size: 15px;
+  font-family: blogger-sans;
+  font-weight: 600;
+  color: #324168;
+}
+
+.Nav-link-mobile:hover {
+  color: black;
+}

@@ -1,0 +1,11 @@
+<svg width="28" height="26" xmlns="http://www.w3.org/2000/svg">
+    <g fill="none" fill-rule="evenodd">
+        <g fill="#F6F7FB" stroke="#383838">
+            <path d="M4.5 3.5h23v22h-23z"/>
+            <path d="M.5.5h23v22H.5z"/>
+        </g>
+        <text font-family="Poppins-Medium, Poppins" font-size="14" font-weight="400" fill="#383838">
+                        <tspan x="8" y="17">2</tspan>
+                    </text>
+    </g>
+</svg>

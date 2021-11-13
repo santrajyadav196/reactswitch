@@ -1,0 +1,84 @@
+.TimeTrackingWeeklyView-Days {
+  width: 100%;
+  margin: 0 0 1px;
+  padding-left: 6px;
+  padding-top: 21px;
+  padding-bottom: 21px;
+  padding-right: 6px;
+  border-radius: 12px;
+  box-shadow: 0 8px 12px 0 rgba(230, 232, 235, 0.89);
+  background-color: #f6f7fb;
+}
+
+.TimeTrackingWeeklyView-upArrow {
+  width: 14px;
+  height: 10px;
+  margin: 3px 0 0 6px;
+}
+
+.TimeTrackingWeeklyView-downArrow {
+  width: 25px;
+  height: 25px;
+  margin: 0 0 0 6px;
+}
+
+.TimeTrackingWeeklyView-Assigned-Rectangle {
+  width: 100%;
+  height: auto;
+  margin: -1px 0 0;
+  padding: 21px 6px 21px 6px;
+  border-radius: 12px;
+  box-shadow: 0 8px 12px 0 rgba(230, 232, 235, 0.89);
+  background-color: #f6f7fb;
+}
+
+.TimeTrackingWeeklyView-DaysBox {
+  width: 50px;
+  height: 40px;
+  padding: 9px 10px 6px 10px;
+  font-family: Poppins;
+  font-size: 14px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  border-radius: 8px;
+  color: #1a1a1a;
+  border: solid 1px #ccd0dd;
+  background-color: #fff;
+}
+
+.TimeTrackingWeeklyView-Assigned-InputBox {
+  width: 314px;
+  height: 40px;
+  padding: 9px 12px 6px 12px;
+  font-family: Poppins;
+  font-size: 14px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  border-radius: 8px;
+  color: #1a1a1a;
+  border: solid 1px #ccd0dd;
+  background-color: #fff;
+}
+
+.TimeTrackingWeeklyView-AddNew {
+  width: 107px;
+  margin: 34px 965px 24px 15px;
+  padding: 12px 24px 12px 16px;
+  font-family: Poppins;
+  font-size: 14px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #fff;
+  cursor: pointer;
+  border-radius: 12px;
+  background-color: #6d5ed3;
+}

@@ -1,0 +1,140 @@
+.TBE-LeftSide-Rectangle {
+  width: 576px !important;
+  height: 640px;
+  margin: 0 0 0 15px;
+  text-align: center;
+  padding: 230px 0px 216px 0px;
+  background-color: #dee0eb;
+}
+
+.INR-Bulk-Rectangle {
+  margin: -44px 0 0 508px;
+}
+.TBE-close-plus-circle {
+  margin: 30px 6px 0 4px;
+  object-fit: contain;
+}
+
+.BulkExpenses-Advance {
+  margin: 30px 0 0 6px;
+  font-family: Poppins;
+  font-size: 14px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #1a1a1a;
+}
+
+.Receipt-Rectangle {
+  width: 576px;
+  height: 129px;
+  text-align: center;
+  margin: 9px 0 0px 0px;
+  border-radius: 12px;
+  border: dashed 3px #dbdee7;
+  background-color: #f6f7fb;
+}
+
+img.image-add-line {
+  margin: 30px 12px 12px 10px;
+  object-fit: contain;
+}
+
+.BulkExpenses-Add-Receipt {
+  font-family: Poppins;
+  font-size: 18px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #7d7e82;
+}
+
+.TBEA-AutoComplete-Chips-Rectangle {
+  margin: -42px 10px 36px 18px;
+}
+
+.TBEA-BillToProject {
+  margin-bottom: -24px;
+}
+
+.BulkExpensesList-Left-Rectangle {
+  width: 576px;
+  height: 626px;
+  margin: 0 30px 0 0;
+}
+
+.BulkExpensesList-Rectangle {
+  width: 576px;
+  height: 146px;
+  margin: 0 30px 16px 0;
+  padding: 24px 15px 24px 24px;
+  background-color: #f6f7fb;
+}
+
+.BulkExpensesList-Name {
+  /* margin: 0 290px 0 0; */
+  font-family: Poppins;
+  font-size: 20px;
+  font-weight: 500;
+  display: inline;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #1b1313;
+}
+
+.BulkExpensesList-Edit {
+  margin: 0 6px 0 -6px;
+  object-fit: contain;
+}
+
+.BulkExpensesList-Delete {
+  margin: 0px 6px 0px -6px;
+  object-fit: contain;
+}
+
+.BulkExpensesList-Spent-Date {
+  margin: 6px 302px 16px 0;
+  font-family: Poppins;
+  font-size: 16px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #7d7e82;
+}
+
+.BulkExpensesList-Purpose {
+  /* margin: 16px 243px 0 0; */
+  font-family: Poppins;
+  font-size: 18px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #6d5ed3;
+}
+
+.BulkExpenses-downArrow {
+  margin: 2px 4px 5px 30px;
+  object-fit: contain;
+}
+
+.BulkExpensesList-Total {
+  margin: 0 0 0 2px;
+  font-family: Poppins;
+  font-size: 16px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #1a1a1a;
+}

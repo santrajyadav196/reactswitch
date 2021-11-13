@@ -1,0 +1,22 @@
+.image_empty {
+    background-color: white;
+    height: 80vh;
+}
+
+.whitebg {
+    background-color: white;
+}
+
+.There-are-no-subscri {
+    width: 301px;
+    height: 28px;
+    margin: 24px 0 0;
+    font-family: Poppins;
+    font-size: 20px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: var(--font-1);
+}

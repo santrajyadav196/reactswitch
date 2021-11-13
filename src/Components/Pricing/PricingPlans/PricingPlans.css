@@ -1,0 +1,35 @@
+.pricing-plan {
+  padding: 50px 0;
+}
+
+.pricing-plan-title {
+  font-size: 48px;
+  font-weight: bold;
+  margin-bottom: 50px;
+}
+
+.pricing-plan-head {
+  font-size: 24px;
+  font-weight: 500;
+  color: #243d4f;
+}
+
+.pricing-plan-desc {
+  font-size: 18px;
+  font-weight: 500;
+  color: #243d4f;
+}
+
+.li-p {
+  margin-bottom: 40px;
+}
+
+.plan-img {
+  padding: 65px 0;
+}
+
+@media (max-width: 300px) {
+  .li-sm-pad {
+    padding: 0 15px;
+  }
+}

@@ -1,0 +1,101 @@
+.tble{
+    border-radius: 12px;
+  /* box-shadow: 0 8px 12px 0 rgba(238, 241, 245, 0.89); */
+  background-color: #fff;
+}
+
+.table_head{
+  border-radius: 12px !important;
+  background-color: #f1f1f1 !important;
+  height: 56px;
+  padding-bottom: 2rem;
+  border-collapse:collapse;
+  vertical-align:middle !important;
+}
+
+.thead-txt{
+    font-family: Poppins;
+  font-size: 14px;
+  font-weight: 500;
+  padding-top: 2rem;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #7d7e82
+
+  ;
+}
+
+.tbdy-cell{
+    width: 1055px;
+  height: 83px;
+  margin: 0 1px 0 0;
+  padding: 19px 29px 19px 29px;
+  background-color: #ffffff !important;
+}
+.td_txt{
+    font-family: Poppins;
+  font-size: 14px;
+  font-weight: normal;
+  font-stretch: normal;
+  margin-top: 1rem;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #1a1a1a
+
+  ;
+  vertical-align: middle;
+  padding-top:2.5rem !important;
+}
+
+.-of-income {
+    width: 88px;
+    height: 17px;
+    margin: 8px 0 0;
+    font-family: Poppins;
+    font-size: 12px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #7d7e82
+
+    ;
+  }
+        
+       
+.more{
+    display: none;
+    position: absolute;
+    z-index: 122;
+
+padding:10px;
+padding-left: 3rem;
+padding-right: 3rem;
+border-radius: 12px;
+  box-shadow: 0 2px 10px 0 rgba(181, 184, 189, 0.89);
+  background-color: #fff;
+
+}
+.img_more:hover .more{
+    display: block;
+    border-radius: 12px;
+    box-shadow: 0 2px 10px 0 rgba(188, 191, 194, 0.89);
+    background-color: #fff;
+}
+
+
+.Archive-Clients {
+    
+    font-family: Poppins;
+    font-size: 14px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: var(--font-1);
+  }

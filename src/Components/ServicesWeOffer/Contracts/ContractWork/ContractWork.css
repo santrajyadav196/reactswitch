@@ -1,0 +1,14 @@
+.contract-work {
+  margin: 120px 0;
+}
+
+.back-contract-img {
+  background-image: url("../../../../Assets/Images/backContract.png");
+  background-repeat: no-repeat;
+}
+
+@media (max-width: 500px) {
+  .mobileContract {
+    padding-top: 9rem;
+  }
+}

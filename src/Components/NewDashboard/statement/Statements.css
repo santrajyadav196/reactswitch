@@ -1,0 +1,162 @@
+.statement_bc_m {
+    width: 29rem;
+    height: 48px;
+    margin: 24px 351px 40px 0px;
+
+    border-radius: 12px;
+    box-shadow: 0 8px 12px 0 rgba(238, 241, 245, 0.89);
+    background-color: #fff;
+}
+
+.flex_bx {
+    margin: 24px 31px 40px 0px;
+
+}
+
+.box_clrd {
+
+    height: 635px;
+    margin: 30px 33px 0 30px;
+    padding: 30px 60px 73px;
+    border-radius: 12px;
+    box-shadow: 0 3px 12px 0 rgba(238, 241, 245, 0.89);
+    border: solid 2px #6d5ed3;
+    background-color: #fff;
+}
+
+.Income-Statement {
+
+    font-family: Poppins;
+    font-size: 28px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: center;
+    color: #1a1a1a;
+}
+
+.Startup-Arena {
+    font-family: Poppins;
+    font-size: 20px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #1a1a1a;
+}
+
+.From-9th-Jan-2021-to {
+
+    font-family: Poppins;
+    font-size: 14px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #7d7e82;
+}
+
+.Income {
+
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #1a1a1a;
+}
+
+.Revenue {
+
+    font-family: Poppins;
+    font-size: 14px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #1a1a1a;
+}
+
+
+.Export-Data {
+
+    font-family: Poppins;
+    font-size: 20px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #1a1a1a;
+}
+
+.txt_d {
+    width: 438px;
+    height: 72px;
+    margin: 23px 0 30px 2px;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    color: #1a1a1a;
+
+}
+
+.Export-as-PDF {
+
+    font-family: Poppins;
+    font-size: 14px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    color: #0d0d0d;
+}
+
+.Rectangle_gry {
+    width: 438px;
+    height: 82px;
+    margin: 49px 0 50px 2px;
+    padding: 16px 115px 16px 16px;
+    border-radius: 8px;
+    background-color: #f2f2f2;
+}
+
+.A-larger-file-size {
+    font-family: Poppins;
+    font-size: 14px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    color: #0d0d0d;
+}
+
+.submit_ed {
+    height: 56px;
+    margin: 50px 0 0;
+    padding: 18px 178px 18px 180px;
+    border-radius: 12px;
+    background-color: #6d5ed3;
+    font-family: Poppins;
+    font-size: 14px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: center;
+    color: #fff;
+}

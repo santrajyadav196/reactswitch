@@ -1,0 +1,125 @@
+.EditBulkIncome-Payment-Rectangle {
+    width: 500px !important;
+    height: 459px;
+    padding: 30px 15px;
+    border-radius: 12px;
+    box-shadow: 0 8px 12px 0 rgba(17, 17, 17, 0.2);
+    background-color: #fff;
+  }
+  
+  .EditBulkIncome-Edit-Payment {
+    margin: 0 285px 12px 0;
+    font-family: Poppins;
+    font-size: 20px;
+    font-weight: 500;
+    display: inline;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #1a1a1a;
+  }
+  
+  .EditBulkIncome-ClosedMark {
+    vertical-align: top;
+    object-fit: contain;
+  }
+  
+  .EditBulkIncome-Payment-created-At {
+    margin: 30px 1px 30px 0;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #7d7e82;
+  }
+  
+  .EditBulkIncome-Rectangle {
+    width: 440px !important;
+    height: 56px;
+    margin: 6px 0 12px 0;
+    padding: 8px 8px 8px 16px;
+    border-radius: 12px;
+    border: solid 1px #7d849e;
+    background-color: #fff;
+  }
+  
+  /* for drop down of currency */
+  
+  .INR-EditPayment-Rectangle {
+    width: 83px;
+    height: 40px;
+    margin: -60px 0px 0 350px;
+    padding: 8px 8px 8px 12px;
+    /* display: inline; */
+    /* opacity: 0.1; */
+    border-radius: 8px;
+    background-color: #f2ecfb;
+  }
+  
+  .INR-EditPayment {
+    margin: 2px 12px 2px 2px;
+    font-family: Poppins;
+    font-size: 14px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #6d5ed3;
+  }
+  
+  .EditBulkIncome-Cancel-Rectangle {
+    width: 208px;
+    height: 56px;
+    margin: 0px 0px 0 0;
+    display: inline-block;
+    padding: 18px 78px 18px 78px;
+    border-radius: 12px;
+    border: solid 1px #6d5ed3;
+    background-color: #fff;
+  }
+  
+  .EditBulkIncome-Cancel {
+    font-family: Poppins;
+    font-size: 14px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: center;
+    color: #6d5ed3;
+  }
+  
+  .EditBulkIncome-Save-Rectangle {
+    width: 208px;
+    height: 56px;
+    margin: 0px 0 0 12px;
+    padding: 18px 78px 18px 78px;
+    border-radius: 12px;
+    background-color: #6d5ed3;
+  }
+  
+  .EditBulkIncome-Save {
+    font-family: Poppins;
+    font-size: 14px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: center;
+    color: #fff;
+  }
+  
+  @media (min-width: 576px) {
+    .modal-dialog-EditBulkIncome {
+      /* max-width: 500px; */
+      margin: 10.75rem auto !important;
+    }
+  }
+  

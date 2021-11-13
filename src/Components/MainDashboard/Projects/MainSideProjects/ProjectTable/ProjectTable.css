@@ -1,0 +1,30 @@
+.editAction {
+  font-family: Nunito;
+  font-size: 16px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  letter-spacing: normal;
+  text-align: left;
+
+  cursor: pointer;
+}
+
+.actionsClass {
+  color: #fa6e31;
+  font-family: Nunito;
+  font-size: 16px;
+  display: flex;
+}
+
+td:empty::before {
+  text-align: center;
+  content: " -";
+  display: flex;
+  margin-left: 35px;
+}
+
+.react-bootstrap-table > table > thead > tr > th .date-filter,
+.react-bootstrap-table > table > thead > tr > th .number-filter {
+  display: none;
+}

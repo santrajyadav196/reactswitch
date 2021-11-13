@@ -1,0 +1,76 @@
+.AddBulkIncome-ClosedBtn {
+  margin: 15px 2px 0 30px;
+  display: inline-block;
+  cursor: pointer;
+}
+
+.AddBulkIncome-Text {
+  margin-left: 12px;
+  font-family: Poppins;
+  font-size: 14px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #1a1a1a;
+}
+
+.AddBulkIncome-Close {
+  margin-left: 12px;
+}
+
+.AddBulkIncome-Create-Income {
+  margin-top: -27px;
+  font-family: Poppins;
+  font-size: 20px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: center;
+  color: #1a1a1a;
+}
+
+.AddBulkIncome-HorizontalLine-Rectangle {
+  width: 100% !important;
+  height: 0.2px !important;
+  background-color: #7d849e;
+}
+
+.AddBulkIncome-Payment-Ways {
+  margin-top: 27px;
+  font-family: Poppins;
+  font-size: 40px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: center;
+  color: #1a1a1a;
+}
+
+.AddBulkIncome-Payment-Ways-Rectangle {
+  width: 260px;
+  height: 160px;
+  margin: 36px 0 50px 15px;
+  padding: 65px 23px 70px 50px;
+  cursor: pointer;
+  border-radius: 12px;
+  border: solid 1px #dddfe7;
+  background-color: #f6f7fb;
+}
+
+.AddBulkIncome-Payment-Ways-Rectangle:hover {
+  border: solid 1px #6d5ed3;
+  background-color: #f4f5f6;
+}
+
+@media (min-width: 576px) {
+  .modal-dialog-AddBulkIncomes {
+    max-width: 100% !important;
+    margin: 0px !important;
+  }
+}

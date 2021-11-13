@@ -1,0 +1,103 @@
+@font-face {
+  font-family: "Nunito";
+  src: url("./Nunito-Regular.ttf") format("truetype");
+}
+
+.padding-NavBarMain-head {
+  padding: 0 10px 10px 10px;
+}
+
+.Nav-link-mainmobile {
+  font-size: 16px;
+  font-family: Nunito;
+  color: #4c4c4c;
+}
+
+.space-around {
+  width: 13%;
+}
+
+.space-aroundProfile {
+  width: 14%;
+}
+
+.space-aroundSetting {
+  width: 15%;
+}
+
+.side-main {
+  width: -webkit-fill-available;
+}
+
+a.side-main.is-active span {
+  color: #fa6e31;
+}
+
+a.side-main.is-active path {
+  fill: #fa6e31;
+}
+
+.sideProfile {
+  font-size: 23px;
+  font-family: Nunito;
+  color: #4c4c4c;
+  padding-top: 2px;
+}
+
+.settings {
+  display: flex;
+  margin-top: 25px;
+}
+
+.fitMobile {
+  padding-top: 0 !important;
+}
+
+.profileLink {
+  margin: 15px 0;
+  padding: 5px 0;
+  background-color: #ffefe7;
+  border-radius: 10px;
+}
+
+.profileView {
+  display: inline-flex;
+  width: 85%;
+  justify-content: space-between;
+}
+
+@media (max-width: 699px) {
+  .space-around {
+    width: 17%;
+  }
+  .space-aroundProfile {
+    width: 20%;
+  }
+  .space-aroundSetting {
+    width: 20%;
+  }
+}
+
+@media (max-width: 499px) {
+  .space-around {
+    width: 20%;
+  }
+  .space-aroundProfile {
+    width: 25%;
+  }
+  .space-aroundSetting {
+    width: 25%;
+  }
+}
+
+@media (max-width: 449px) {
+  .space-around {
+    width: 23%;
+  }
+  .space-aroundProfile {
+    width: 28%;
+  }
+  .space-aroundSetting {
+    width: 28%;
+  }
+}
